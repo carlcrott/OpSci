@@ -24,10 +24,6 @@ def main()
 
   final = []
 
-#http://content.apa.org/journals/amp
-#http://content.apa.org/journals/aap
-#http://content.apa.org/journals/bne
-
   for td in tds 
     one = td.search('a')[0]
     two = td.search('a')[1]
@@ -37,20 +33,19 @@ def main()
       link = "http://www.apa.org#{one.attributes["href"].text()}"
       name = one.text()
       rss = two.attributes["href"].text()
+      abbrev = rss.split("/")[-1][0..2]
+      
       temp = [
         "url"=> link,
         "rss"=> rss,
-        "index"=>"IDK"
+        "index"=>"http://content.apa.org/journals/#{abbrev}"
       ]
-      p temp
 
-      final << {"#{arr[0]}"=>temp}
+      unf = {"#{name}"=>temp}
+      p unf
+      final << unf
 
-    temp = [
-      "url"=>"#{arr[1]}",
-      "rss"=>"IDK",
-      "index"=>"IDK"
-    ]
+
 
 
     elsif td.search('a').count > 2 # has extra blank tags 
@@ -67,6 +62,7 @@ def main()
         # an RSS feed
         if i.attributes["href"].text()[-4..-1] == '.rss'
           rss = i.attributes["href"].text()
+          abbrev = rss.split("/")[-1][0..2]
         end
         # OR
         # a link
@@ -78,11 +74,18 @@ def main()
           name = i.text()
         end
 
+      
+
         # once every item is accounted for, export it and clear for the next
+#        unless [name, link, rss].any?(&:nil?)
         if (name != nil) && (link != nil) && (rss != nil)
-          temp = [name,link,rss]
-          p temp
-          final << temp
+          temp = [
+            "url"=> link,
+            "rss"=> rss,
+            "index"=>"http://content.apa.org/journals/#{abbrev}"
+          ]
+          unf = {"#{name}"=>temp}
+          final << unf
           # save entry
           link,name,rss,temp = nil,nil,nil,[]
         end
@@ -93,7 +96,7 @@ def main()
   end
 
   for line in final
-    raise "\nUNEXPECTED:\nItem 1 should not contain 'http://' or '.rss':\n#{line}" unless ((line[0].include? 'http://') == false) && ((line[0].include? '.rss') == false)
+#    raise "\nUNEXPECTED:\nItem 1 should not contain 'http://' or '.rss':\n#{line}" unless ((line[0].include? 'http://') == false) && ((line[0].include? '.rss') == false)
     raise "\nUNEXPECTED:\nItem 2 does not contain 'http://':\n#{line}" unless line[1][0..6] == 'http://'
     raise "\nUNEXPECTED:\nItem 3 does not end in '.rss':\n#{line}" unless line[2][-4..-1] == '.rss'
   end
