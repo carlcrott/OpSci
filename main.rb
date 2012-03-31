@@ -3,7 +3,7 @@ require 'nokogiri'
 require 'mechanize'
 require 'json'
 
-REPO_NAME = 'main'
+REPO_NAME = 'main2'
 
 #publisher class + adapter
 class Publisher
@@ -60,33 +60,36 @@ unparsed = []
 final = []
 output_file = open("#{REPO_NAME}_output.json",'a')
 
-for row in journals
-  page = google_search("#{row.to_s}")
+puts journals.length
 
-  begin
-    first_link = page.search('#ires').search('li')[0].search('h3').search('a').first
-    url = first_link.attributes['href'].text().split('&')[0].split('=')[1]
+def search_loop(journals, final)
+  journals.length == 0 ? (return final) : ""
+  for row in journals
+    page = google_search("#{row.to_s}")
 
-    index, rss = 'idk','idk'
+    begin
+      first_link = page.search('#ires').search('li')[0].search('h3').search('a').first
+      url = first_link.attributes['href'].text().split('&')[0].split('=')[1]
+      index, rss = 'idk','idk'
 
-    @publisher = Publisher.new(row.chomp, url, index, rss) 
-    puts @publisher.hash
-    final << @publisher.hash
-
-  rescue
-    unparsed << row
+      @publisher = Publisher.new(row.chomp, url, index, rss) 
+      puts @publisher.hash
+      final << @publisher.hash
+      journals.delete(row)
+    rescue
+      puts "recurse"
+      sleep(5)
+      search_loop(journals,final)
+    end
+    
   end
-
-#  output_file.write("#{@publisher.hash.to_json}")
-
-  sleep(rand(1))
-
 end
 
-  export = final.to_json
-  puts "VALID JSON? #{export.valid_json?}"
-  File.open(output_file,'a').write(export)
+final = []
+search_loop(journals,final)
 
-p unparsed
-
+export = final.to_json
+p export
+puts "VALID JSON? #{export.valid_json?}"
+File.open(output_file,'a').write(export)
 
