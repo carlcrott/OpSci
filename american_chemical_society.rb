@@ -3,7 +3,7 @@ require 'nokogiri'
 require 'mechanize'
 require 'json'
 
-REPO_NAME = 'acs_publications'
+REPO_NAME = __FILE__.split(".")[0].sub(' ','')
 
 class String
   def valid_json?
@@ -20,27 +20,29 @@ def build_json(arr)
   temp = []
   full_array = []
   if arr[1].include? 'http://'
-    temp = [
+    temp = {
       "url"=>"#{arr[1]}",
       "rss"=>"IDK",
       "index"=>"IDK"
-    ]
+    }
   elsif arr[1].include? '/journal/'
     code = arr[1].split("/")[-1] 
-    temp = [
+    temp = {
       "url"=>"http://pubs.acs.org/journal/#{code}",
       "rss"=>"http://feeds.feedburner.com/acs/#{code}",
       "index"=>"http://pubs.acs.org/loi/#{code}"
-    ]
+    }
   elsif arr[1][0] == '/'
-    temp = [
+    temp = {
       "url"=>"http://pubs.acs.org#{arr[1]}",
       "rss"=>"IDK",
       "index"=>"IDK"
-    ]
+    }
   else
     p arr
   end
+
+  p full_array
 
   full_array = {"#{arr[0]}"=>temp}
   return full_array

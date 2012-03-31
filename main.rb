@@ -3,7 +3,7 @@ require 'nokogiri'
 require 'mechanize'
 require 'json'
 
-REPO_NAME = 'main2'
+REPO_NAME = 'main'
 
 #publisher class + adapter
 class Publisher
@@ -63,7 +63,8 @@ output_file = open("#{REPO_NAME}_output.json",'a')
 puts journals.length
 
 def search_loop(journals, final)
-  journals.length == 0 ? (return final) : ""
+  journals.length == 0 ? (return final) : "" # breaks recursion
+
   for row in journals
     page = google_search("#{row.to_s}")
 
@@ -92,4 +93,26 @@ export = final.to_json
 p export
 puts "VALID JSON? #{export.valid_json?}"
 File.open(output_file,'a').write(export)
+
+
+
+output_file = open("#{REPO_NAME}_output.json",'a')
+
+
+
+# next open up name of each entry
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
