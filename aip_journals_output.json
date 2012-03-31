@@ -1,0 +1,219 @@
+[
+    {
+        "AIP Advances": [
+            {
+                "url": "http://aipadvances.aip.org",
+                "rss": "http://aipadvances.aip.orgfeatures/rss_feeds",
+                "index": "http://aipadvances.aip.orgbrowse"
+            }
+        ]
+    },
+    {
+        "Applied Physics Letters": [
+            {
+                "url": "http://apl.aip.org",
+                "rss": "http://apl.aip.orgfeatures/rss_feeds",
+                "index": "http://apl.aip.orgbrowse"
+            }
+        ]
+    },
+    {
+        "Biomicrofluidics": [
+            {
+                "url": "http://bmf.aip.org",
+                "rss": "http://bmf.aip.orgfeatures/rss_feeds",
+                "index": "http://bmf.aip.orgbrowse"
+            }
+        ]
+    },
+    {
+        "Chaos": [
+            {
+                "url": "http://chaos.aip.org",
+                "rss": "http://chaos.aip.orgfeatures/rss_feeds",
+                "index": "http://chaos.aip.orgbrowse"
+            }
+        ]
+    },
+    {
+        "Journal of Applied Physics": [
+            {
+                "url": "http://jap.aip.org",
+                "rss": "http://jap.aip.orgfeatures/rss_feeds",
+                "index": "http://jap.aip.orgbrowse"
+            }
+        ]
+    },
+    {
+        "The Journal of Chemical Physics": [
+            {
+                "url": "http://jcp.aip.org",
+                "rss": "http://jcp.aip.orgfeatures/rss_feeds",
+                "index": "http://jcp.aip.orgbrowse"
+            }
+        ]
+    },
+    {
+        "Journal of Laser Applications": [
+            {
+                "url": "http://jla.aip.org",
+                "rss": "http://jla.aip.orgfeatures/rss_feeds",
+                "index": "http://jla.aip.orgbrowse"
+            }
+        ]
+    },
+    {
+        "Journal of Mathematical Physics": [
+            {
+                "url": "http://jmp.aip.org",
+                "rss": "http://jmp.aip.orgfeatures/rss_feeds",
+                "index": "http://jmp.aip.orgbrowse"
+            }
+        ]
+    },
+    {
+        "Journal of Physical and Chemical Reference Data": [
+            {
+                "url": "http://jpcrd.aip.org",
+                "rss": "http://jpcrd.aip.orgfeatures/rss_feeds",
+                "index": "http://jpcrd.aip.orgbrowse"
+            }
+        ]
+    },
+    {
+        "Journal of Renewable and Sustainable Energy": [
+            {
+                "url": "http://jrse.aip.org",
+                "rss": "http://jrse.aip.orgfeatures/rss_feeds",
+                "index": "http://jrse.aip.orgbrowse"
+            }
+        ]
+    },
+    {
+        "Low Temperature Physics": [
+            {
+                "url": "http://ltp.aip.org",
+                "rss": "http://ltp.aip.orgfeatures/rss_feeds",
+                "index": "http://ltp.aip.orgbrowse"
+            }
+        ]
+    },
+    {
+        "Physics of Fluids": [
+            {
+                "url": "http://pof.aip.org",
+                "rss": "http://pof.aip.orgfeatures/rss_feeds",
+                "index": "http://pof.aip.orgbrowse"
+            }
+        ]
+    },
+    {
+        "Physics of Plasmas": [
+            {
+                "url": "http://pop.aip.org",
+                "rss": "http://pop.aip.orgfeatures/rss_feeds",
+                "index": "http://pop.aip.orgbrowse"
+            }
+        ]
+    },
+    {
+        "Review of Scientific Instruments": [
+            {
+                "url": "http://rsi.aip.org",
+                "rss": "http://rsi.aip.orgfeatures/rss_feeds",
+                "index": "http://rsi.aip.orgbrowse"
+            }
+        ]
+    },
+    {
+        "Theoretical & Applied Mechanics Letters": [
+            {
+                "url": "http://taml.aip.org",
+                "rss": "http://taml.aip.orgfeatures/rss_feeds",
+                "index": "http://taml.aip.orgbrowse"
+            }
+        ]
+    },
+    {
+        "APL: Organic Electronics & Photonics": [
+            {
+                "url": "http://apl-oep.aip.org/oep",
+                "rss": "http://apl-oep.aip.org/oepfeatures/rss_feeds",
+                "index": "http://apl-oep.aip.org/oepbrowse"
+            }
+        ]
+    },
+    {
+        "Applied Physics Reviews": [
+            {
+                "url": "http://apr.aip.org/apr",
+                "rss": "http://apr.aip.org/aprfeatures/rss_feeds",
+                "index": "http://apr.aip.org/aprbrowse"
+            }
+        ]
+    },
+    {
+        "JCP: Biochemical Physics": [
+            {
+                "url": "http://jcp-bcp.aip.org",
+                "rss": "http://jcp-bcp.aip.orgfeatures/rss_feeds",
+                "index": "http://jcp-bcp.aip.orgbrowse"
+            }
+        ]
+    },
+    {
+        "Applications of Superconductivity": [
+            {
+                "url": "http://www.vjsuper.org/super",
+                "rss": "http://www.vjsuper.org/superfeatures/rss_feeds",
+                "index": "http://www.vjsuper.org/superbrowse"
+            }
+        ]
+    },
+    {
+        "Atomic Quantum Fluids": [
+            {
+                "url": "http://www.vjaqf.org/ ",
+                "rss": "http://www.vjaqf.org/ features/rss_feeds",
+                "index": "http://www.vjaqf.org/ browse"
+            }
+        ]
+    },
+    {
+        "Biological Physics Research": [
+            {
+                "url": "http://www.vjbio.org/bio",
+                "rss": "http://www.vjbio.org/biofeatures/rss_feeds",
+                "index": "http://www.vjbio.org/biobrowse"
+            }
+        ]
+    },
+    {
+        "Nanoscale Science & Technology": [
+            {
+                "url": "http://www.vjnano.org/nano",
+                "rss": "http://www.vjnano.org/nanofeatures/rss_feeds",
+                "index": "http://www.vjnano.org/nanobrowse"
+            }
+        ]
+    },
+    {
+        "Quantum Information": [
+            {
+                "url": "http://www.vjquantuminfo.org/quantuminfo",
+                "rss": "http://www.vjquantuminfo.org/quantuminfofeatures/rss_feeds",
+                "index": "http://www.vjquantuminfo.org/quantuminfobrowse"
+            }
+        ]
+    },
+    {
+        "Ultrafast Science": [
+            {
+                "url": "http://www.vjultrafast.org/ultrafast",
+                "rss": "http://www.vjultrafast.org/ultrafastfeatures/rss_feeds",
+                "index": "http://www.vjultrafast.org/ultrafastbrowse"
+            }
+        ]
+    }
+]
+[{"AIP Advances":[{"url":"http://aipadvances.aip.org","rss":"http://aipadvances.aip.orgfeatures/rss_feeds","index":"http://aipadvances.aip.orgbrowse"}]},{"Applied Physics Letters":[{"url":"http://apl.aip.org","rss":"http://apl.aip.orgfeatures/rss_feeds","index":"http://apl.aip.orgbrowse"}]},{"Biomicrofluidics":[{"url":"http://bmf.aip.org","rss":"http://bmf.aip.orgfeatures/rss_feeds","index":"http://bmf.aip.orgbrowse"}]},{"Chaos":[{"url":"http://chaos.aip.org","rss":"http://chaos.aip.orgfeatures/rss_feeds","index":"http://chaos.aip.orgbrowse"}]},{"Journal of Applied Physics":[{"url":"http://jap.aip.org","rss":"http://jap.aip.orgfeatures/rss_feeds","index":"http://jap.aip.orgbrowse"}]},{"The Journal of Chemical Physics":[{"url":"http://jcp.aip.org","rss":"http://jcp.aip.orgfeatures/rss_feeds","index":"http://jcp.aip.orgbrowse"}]},{"Journal of Laser Applications":[{"url":"http://jla.aip.org","rss":"http://jla.aip.orgfeatures/rss_feeds","index":"http://jla.aip.orgbrowse"}]},{"Journal of Mathematical Physics":[{"url":"http://jmp.aip.org","rss":"http://jmp.aip.orgfeatures/rss_feeds","index":"http://jmp.aip.orgbrowse"}]},{"Journal of Physical and Chemical Reference Data":[{"url":"http://jpcrd.aip.org","rss":"http://jpcrd.aip.orgfeatures/rss_feeds","index":"http://jpcrd.aip.orgbrowse"}]},{"Journal of Renewable and Sustainable Energy":[{"url":"http://jrse.aip.org","rss":"http://jrse.aip.orgfeatures/rss_feeds","index":"http://jrse.aip.orgbrowse"}]},{"Low Temperature Physics":[{"url":"http://ltp.aip.org","rss":"http://ltp.aip.orgfeatures/rss_feeds","index":"http://ltp.aip.orgbrowse"}]},{"Physics of Fluids":[{"url":"http://pof.aip.org","rss":"http://pof.aip.orgfeatures/rss_feeds","index":"http://pof.aip.orgbrowse"}]},{"Physics of Plasmas":[{"url":"http://pop.aip.org","rss":"http://pop.aip.orgfeatures/rss_feeds","index":"http://pop.aip.orgbrowse"}]},{"Review of Scientific Instruments":[{"url":"http://rsi.aip.org","rss":"http://rsi.aip.orgfeatures/rss_feeds","index":"http://rsi.aip.orgbrowse"}]},{"Theoretical & Applied Mechanics Letters":[{"url":"http://taml.aip.org","rss":"http://taml.aip.orgfeatures/rss_feeds","index":"http://taml.aip.orgbrowse"}]},{"APL: Organic Electronics & Photonics":[{"url":"http://apl-oep.aip.org/oep","rss":"http://apl-oep.aip.org/oepfeatures/rss_feeds","index":"http://apl-oep.aip.org/oepbrowse"}]},{"Applied Physics Reviews":[{"url":"http://apr.aip.org/apr","rss":"http://apr.aip.org/aprfeatures/rss_feeds","index":"http://apr.aip.org/aprbrowse"}]},{"JCP: Biochemical Physics":[{"url":"http://jcp-bcp.aip.org","rss":"http://jcp-bcp.aip.orgfeatures/rss_feeds","index":"http://jcp-bcp.aip.orgbrowse"}]},{"Applications of Superconductivity":[{"url":"http://www.vjsuper.org/super","rss":"http://www.vjsuper.org/superfeatures/rss_feeds","index":"http://www.vjsuper.org/superbrowse"}]},{"Atomic Quantum Fluids":[{"url":"http://www.vjaqf.org/ ","rss":"http://www.vjaqf.org/ features/rss_feeds","index":"http://www.vjaqf.org/ browse"}]},{"Biological Physics Research":[{"url":"http://www.vjbio.org/bio","rss":"http://www.vjbio.org/biofeatures/rss_feeds","index":"http://www.vjbio.org/biobrowse"}]},{"Nanoscale Science & Technology":[{"url":"http://www.vjnano.org/nano","rss":"http://www.vjnano.org/nanofeatures/rss_feeds","index":"http://www.vjnano.org/nanobrowse"}]},{"Quantum Information":[{"url":"http://www.vjquantuminfo.org/quantuminfo","rss":"http://www.vjquantuminfo.org/quantuminfofeatures/rss_feeds","index":"http://www.vjquantuminfo.org/quantuminfobrowse"}]},{"Ultrafast Science":[{"url":"http://www.vjultrafast.org/ultrafast","rss":"http://www.vjultrafast.org/ultrafastfeatures/rss_feeds","index":"http://www.vjultrafast.org/ultrafastbrowse"}]}]

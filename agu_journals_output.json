@@ -1,0 +1,227 @@
+[
+    {
+        "Earth Interactions": [
+            {
+                "url": "http://earthinteractions.org/",
+                "rss": "IDK",
+                "index": "IDK"
+            }
+        ]
+    },
+    {
+        "Geochemistry, Geophysics, Geosystems": [
+            {
+                "url": "http://www.agu.org/journals{arr[1]}",
+                "rss": "http://www.agu.org/pubs/rss/gc_rss.xml",
+                "index": "http://www.agu.org/journals/gc/mp364.shtml"
+            }
+        ]
+    },
+    {
+        "Geophysical Research Letters": [
+            {
+                "url": "http://www.agu.org/journals{arr[1]}",
+                "rss": "http://www.agu.org/pubs/rss/gl_rss.xml",
+                "index": "http://www.agu.org/journals/gl/mp364.shtml"
+            }
+        ]
+    },
+    {
+        "Global Biogeochemical Cycles": [
+            {
+                "url": "http://www.agu.org/journals{arr[1]}",
+                "rss": "http://www.agu.org/pubs/rss/gb_rss.xml",
+                "index": "http://www.agu.org/journals/gb/mp364.shtml"
+            }
+        ]
+    },
+    {
+        "Journal of Advances in Modeling Earth Systems": [
+            {
+                "url": "http://www.agu.org/journals{arr[1]}",
+                "rss": "http://www.agu.org/pubs/rss/ms_rss.xml",
+                "index": "http://www.agu.org/journals/ms/mp364.shtml"
+            }
+        ]
+    },
+    {
+        "Nonlinear Processes in Geophysics": [
+            {
+                "url": "http://www.nonlinear-processes-in-geophysics.net/index.html",
+                "rss": "IDK",
+                "index": "IDK"
+            }
+        ]
+    },
+    {
+        "Paleoceanography": [
+            {
+                "url": "http://www.agu.org/journals{arr[1]}",
+                "rss": "http://www.agu.org/pubs/rss/pa_rss.xml",
+                "index": "http://www.agu.org/journals/pa/mp364.shtml"
+            }
+        ]
+    },
+    {
+        "Radio Science": [
+            {
+                "url": "http://www.agu.org/journals{arr[1]}",
+                "rss": "http://www.agu.org/pubs/rss/rs_rss.xml",
+                "index": "http://www.agu.org/journals/rs/mp364.shtml"
+            }
+        ]
+    },
+    {
+        "Reviews of Geophysics": [
+            {
+                "url": "http://www.agu.org/journals{arr[1]}",
+                "rss": "http://www.agu.org/pubs/rss/rg_rss.xml",
+                "index": "http://www.agu.org/journals/rg/mp364.shtml"
+            }
+        ]
+    },
+    {
+        "Space Weather": [
+            {
+                "url": "http://www.agu.org/journals{arr[1]}",
+                "rss": "http://www.agu.org/pubs/rss/sw_rss.xml",
+                "index": "http://www.agu.org/journals/sw/mp364.shtml"
+            }
+        ]
+    },
+    {
+        "Tectonics": [
+            {
+                "url": "http://www.agu.org/journals{arr[1]}",
+                "rss": "http://www.agu.org/pubs/rss/tc_rss.xml",
+                "index": "http://www.agu.org/journals/tc/mp364.shtml"
+            }
+        ]
+    },
+    {
+        "Water Resources Research": [
+            {
+                "url": "http://www.agu.org/journals{arr[1]}",
+                "rss": "http://www.agu.org/pubs/rss/wr_rss.xml",
+                "index": "http://www.agu.org/journals/wr/mp364.shtml"
+            }
+        ]
+    },
+    {
+        "Journal of Geophysical Research": [
+            {
+                "url": "http://www.agu.org/journals{arr[1]}",
+                "rss": "http://www.agu.org/pubs/rss/jgr_rss.xml",
+                "index": "http://www.agu.org/journals/jgr/mp364.shtml"
+            }
+        ]
+    },
+    {
+        "Atmospheres": [
+            {
+                "url": "http://www.agu.org/journals{arr[1]}",
+                "rss": "http://www.agu.org/pubs/rss/jd_rss.xml",
+                "index": "http://www.agu.org/journals/jd/mp364.shtml"
+            }
+        ]
+    },
+    {
+        "Biogeosciences": [
+            {
+                "url": "http://www.agu.org/journals{arr[1]}",
+                "rss": "http://www.agu.org/pubs/rss/jg_rss.xml",
+                "index": "http://www.agu.org/journals/jg/mp364.shtml"
+            }
+        ]
+    },
+    {
+        "Earth Surface": [
+            {
+                "url": "http://www.agu.org/journals{arr[1]}",
+                "rss": "http://www.agu.org/pubs/rss/jf_rss.xml",
+                "index": "http://www.agu.org/journals/jf/mp364.shtml"
+            }
+        ]
+    },
+    {
+        "Oceans": [
+            {
+                "url": "http://www.agu.org/journals{arr[1]}",
+                "rss": "http://www.agu.org/pubs/rss/jc_rss.xml",
+                "index": "http://www.agu.org/journals/jc/mp364.shtml"
+            }
+        ]
+    },
+    {
+        "Planets": [
+            {
+                "url": "http://www.agu.org/journals{arr[1]}",
+                "rss": "http://www.agu.org/pubs/rss/je_rss.xml",
+                "index": "http://www.agu.org/journals/je/mp364.shtml"
+            }
+        ]
+    },
+    {
+        "Solid Earth": [
+            {
+                "url": "http://www.agu.org/journals{arr[1]}",
+                "rss": "http://www.agu.org/pubs/rss/jb_rss.xml",
+                "index": "http://www.agu.org/journals/jb/mp364.shtml"
+            }
+        ]
+    },
+    {
+        "Space Physics": [
+            {
+                "url": "http://www.agu.org/journals{arr[1]}",
+                "rss": "http://www.agu.org/pubs/rss/ja_rss.xml",
+                "index": "http://www.agu.org/journals/ja/mp364.shtml"
+            }
+        ]
+    },
+    {
+        "Editor's Choice": [
+            {
+                "url": "/pubs/journals/virtual/editors_choice/",
+                "rss": "IDK",
+                "index": "IDK"
+            }
+        ]
+    },
+    {
+        "Personal Choice": [
+            {
+                "url": "/pubs/journals/virtual/personal_choice.shtml",
+                "rss": "IDK",
+                "index": "IDK"
+            }
+        ]
+    },
+    {
+        "International Journal of Geomagnetism and Aeronomy": [
+            {
+                "url": "http://www.agu.org/journals{arr[1]}",
+                "rss": "http://www.agu.org/pubs/rss/gi_rss.xml",
+                "index": "http://www.agu.org/journals/gi/mp364.shtml"
+            }
+        ]
+    },
+    {
+        "Russian Journal of Earth Science": [
+            {
+                "url": "http://www.agu.org/journals{arr[1]}",
+                "rss": "http://www.agu.org/pubs/rss/rjes_rss.xml",
+                "index": "http://www.agu.org/journals/rjes/mp364.shtml"
+            }
+        ]
+    },
+    {
+        "Chinese Journal of Geophysics": [
+            {
+                "url": "http://www.agu.org/journals{arr[1]}",
+                "rss": "http://www.agu.org/pubs/rss/ChineseJGeo_rss.xml",
+                "index": "http://www.agu.org/journals/ChineseJGeo/mp364.shtml"
+            }
+        ]
+    }
+]
