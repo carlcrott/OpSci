@@ -18,7 +18,7 @@ end
 
 def build_json(arr)
   full_array = []
-#  p arr[2]
+
   if arr[1].split('/').count == 3
     abb = arr[1].split('/')[2]
     @temp = {
@@ -29,6 +29,8 @@ def build_json(arr)
   else
     puts "I dont know how to build this entry: #{arr[0]}"
   end
+
+  arr[2] == 'idk' ? ( @temp['rss'] = 'idk' ) : ""
 
   full_array = { "name" => arr[0], "url" => @temp['url'], "rss" => @temp['rss'], "index" => @temp['index'] }
 end
@@ -54,7 +56,7 @@ def verify_data(entry, v = true)
     end
   end
 
-  begin ###### Verify index 
+  begin ###### Verify index
     page = Mechanize.new.get(entry['index'])
     url_tests = []
     (2008..2012).map {|x| x="[text()*='#{x}']"; url_tests << page.search(x).count}
@@ -86,11 +88,9 @@ end
 
 def get_rss_feed(abb, rss_feeds)
   for feed in rss_feeds
-    puts "FEED: #{feed}"
     journal = feed.split('&')[3][3..-1]
-
-    puts "YADDA #{journal}"
     if journal == abb
+      puts "matched:  #{journal}"
       return feed
     end
   end
@@ -108,6 +108,7 @@ def main()
 
   final = []
   for topic in topics
+    puts "topic #{topic}"
     rss = nil
     name = topic.text()
     url = topic.attributes["href"].text()
@@ -118,6 +119,7 @@ def main()
     rss = get_rss_feed(abb, rss_feeds)
 
     p rss
+    puts '----------------------------------------'
     temp = [name, url, rss]
     entry = build_json(temp)
     verified_journal_entry = verify_data(entry,false)
@@ -138,7 +140,6 @@ def main()
   end
 
 end
-
 
 main()
 
