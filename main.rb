@@ -101,7 +101,10 @@ output_file = open("#{REPO_NAME}_output.json",'a')
 
 
 # next open up name of each entry
+# if journal name cant be indexed in the main JSON file
+# run the corresponding parser
 
+# each journal needs its own nokogiri elements and json_parse code
 
 
 
