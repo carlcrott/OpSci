@@ -16,26 +16,33 @@ class String
   end
 end
 
+
+
 def build_json(arr)
   full_array = []
-  if (arr[1][0] == '/') && ( arr[1][-6..-1] == '.shtml') # regular internal link
+
+  if  arr[1][-6..-1] == '.shtml' # regular internal link
     abb = arr[1].split('/')[1]
+
+    arr[1][0] != '/' ? ( arr[1].insert 0,'/' ): "" # some internal links are missing a leading /
+
     @temp = {
-      "url"   => "#{arr[1]}",
+      "url"   => "http://www.worldscinet.com#{arr[1]}",
       "rss"   => "http://www.worldscinet.com/#{abb}/#{abb}.rss",
       "index" => "http://www.worldscinet.com/#{abb}/mkt/archive.shtml"
     }
+  elsif arr[1][0..6] == 'http://'
+     @temp = {
+      "url"   => arr[1],
+      "rss"   => "idk",
+      "index" => "idk"
+    }
   else
-    puts "I dont know how to build this entry: #{arr}"
+    puts "BLEEP! BLOOP! I dont know how to build this entry: #{arr}"
   end
 
-  full_array = { 
-    "name"   => arr[0],
-    "url"    => @temp['url'],
-    "rss"    => @temp['rss'],
-    "index"  => @temp['index']
-  }
-  p full_array
+  full_array = { "name" => arr[0], "url" => @temp['url'], "rss" => @temp['rss'], "index" => @temp['index'] }
+  return full_array
 end
 
 
@@ -92,27 +99,26 @@ def main()
   final = []
   for t in topics_list
     build_json(t)
-#    journal_entry = verify_data(build_json(t))
-#    final << journal_entry
+    journal_entry = verify_data(build_json(t))
+    final << journal_entry
   end
 
-#  puts "VALID JSON? #{final.to_json.valid_json?}"
-#  output_file = "#{REPO_NAME}_output.json"
+  puts "VALID JSON? #{final.to_json.valid_json?}"
+  output_file = "#{REPO_NAME}_output.json"
 
-#  puts "Writing output to file: #{output_file}"
-#  File.open(output_file,'a').write(final.to_json)
+  puts "Writing output to file: #{output_file}"
+  File.open(output_file,'a').write(final.to_json)
 
-#  puts "VERIFYING... All outputs should be quiet"
-#  for entry in final
-#    verify_data(entry, false)
-#  end
+  puts "VERIFYING... All outputs should be quiet"
+  for entry in final
+    verify_data(entry, false)
+  end
 
 end
 
 
 
-#verify_data({"name" => "ACS Chemical Biology","url" =>"http://pubs.acs.org/journal/acbcct","rss" =>"http://pubs.acs.org/journal/acbcct","index" =>"http://pubs.acs.org/loi/acbcct"})
-#verify_data({"name" => "ACS Chemical Biology","url" =>"http://pubs.acs.org/journal/acbcct","rss" =>"idk","index" =>"http://pubs.acs.org/loi/acbcct"},false)
+
 
 main()
 
