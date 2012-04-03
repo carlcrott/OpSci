@@ -57,7 +57,7 @@ def verify_data(entry, v = true)
   rescue
     if entry['rss'] != 'idk' 
       puts "ERROR: Expecting '#{entry['rss']}' to parse as Mechanize::File class"
-      entry['rss'] == 'idk'
+      entry['rss'] = 'idk'
     end
   end
 

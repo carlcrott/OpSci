@@ -80,7 +80,8 @@ end
 
 
 
-def main()  
+def main()
+  puts "These guys have crappy data structures"
   page = Mechanize.new.get('http://journals.berghahnbooks.com/')
   journals = page.search('ul.nav')[0].search('li')[0].search('a')[1..-1] # first link is junk
 

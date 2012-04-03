@@ -2,11 +2,10 @@ require 'nokogiri'
 require 'mechanize'
 require 'net/http'
 
-page = Mechanize.new.get('http://dl.acm.org/')
-journals = page.search('//*[contains(text(),"Journals/Transactions")]')[0]#.xpath('/body/div/div/table/tbody/tr/td/table/tbody/tr/td[6]/table/tbody/tr[2]/td/ul/li[2]/a')
+page = Mechanize.new.get 'http://journals.berghahnbooks.com/aia/'
+abb = page.search('//*[contains(text(),"Tables of Contents")]')[0]
 
-p journals.attributes['href'].text()
-
+p abb.attributes['href'].text()
 
 
 ##tests = [ 
