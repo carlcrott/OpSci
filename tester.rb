@@ -1,11 +1,15 @@
 require 'nokogiri'
 require 'mechanize'
 require 'net/http'
+require 'json'
+load './jab.rb'
 
-page = Mechanize.new.get 'http://journals.berghahnbooks.com/aia/'
-abb = page.search('//*[contains(text(),"Tables of Contents")]')[0]
+bar
 
-p abb.attributes['href'].text()
+fu = Jab.new
+
+fu.foo
+
 
 
 ##tests = [ 

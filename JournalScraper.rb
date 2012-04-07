@@ -139,14 +139,28 @@ scrape_publisher('american_chemical_society')
 
 ################################################
 class ScrapePublisher # publisher >> journals
+  
   - publisher url
   - urls of journals they publish
 end
 
-class ScrapeJournal # journal 
-  - journal url
-  - index url
-  - rss feeds
+
+
+
+class Scraper # journal 
+  attr_accessor :index_uri, :type
+
+  def initialize(type)
+    @type = type
+  end
+
+  def get(uri, params = [])
+  end
+
+  def man
+    @@style = "with style"
+  end
+
 end
 
 
