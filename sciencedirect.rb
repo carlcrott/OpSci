@@ -2,7 +2,7 @@ require 'open-uri'
 require 'nokogiri'
 require 'mechanize'
 
-REPO_NAME = 'sciencedirect'
+__FILE__ == $0 ? ( REPO_NAME = __FILE__.split(".")[0] ) : ""
 
 http://www.sciencedirect.com/science/journals/all
 

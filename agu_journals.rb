@@ -3,7 +3,7 @@ require 'nokogiri'
 require 'mechanize'
 require 'json'
 
-REPO_NAME = 'agu_journals'
+__FILE__ == $0 ? ( REPO_NAME = __FILE__.split(".")[0] ) : ""
 
 class String
   def valid_json?
@@ -18,16 +18,6 @@ end
 
 def build_json(arr)
 
-
-
-#["Journal of Advances in Modeling Earth Systems", "/journals/ms/"]
-#["Nonlinear Processes in Geophysics", "http://www.nonlinear-processes-in-geophysics.net/index.html"]
-#["Paleoceanography", "/journals/pa/"]
-#["Editor's Choice", "/pubs/journals/virtual/editors_choice/"]
-#["Personal Choice", "/pubs/journals/virtual/personal_choice.shtml"]
-#["International Journal of Geomagnetism and Aeronomy", "/journals/gi/"]
-#["Russian Journal of Earth Science", "/wps/rjes/"]
-#["Chinese Journal of Geophysics", "/wps/ChineseJGeo/"]
   temp = []
   full_array = []
 

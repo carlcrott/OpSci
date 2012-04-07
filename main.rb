@@ -138,16 +138,16 @@ scrape_publisher('american_chemical_society')
 
 
 ################################################
-class ScrapePublisher # publisher >> journals
-  - publisher url
-  - urls of journals they publish
-end
+#class ScrapePublisher # publisher >> journals
+#  - publisher url
+#  - urls of journals they publish
+#end
 
-class ScrapeJournal # journal 
-  - journal url
-  - index url
-  - rss feeds
-end
+#class ScrapeJournal # journal 
+#  - journal url
+#  - index url
+#  - rss feeds
+#end
 
 
 

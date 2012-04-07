@@ -3,7 +3,7 @@ require 'nokogiri'
 require 'mechanize'
 require 'json'
 
-REPO_NAME = 'aip_journals'
+__FILE__ == $0 ? ( REPO_NAME = __FILE__.split(".")[0] ) : ""
 
 class String
   def valid_json?
