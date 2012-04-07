@@ -1,15 +1,36 @@
-require 'nokogiri'
-require 'mechanize'
+#require 'nokogiri'
+#require 'mechanize'
+#require 'net/http'
+#require 'json'
 require 'net/http'
-require 'json'
-load './jab.rb'
 
-bar
+pages = %w( www.rubycentral.com
+            www.awl.com
+            www.pragmaticprogrammer.com
+           )
 
-fu = Jab.new
+threads = []
 
-fu.foo
+for page in pages
+  threads << Thread.new(page) { |myPage|
 
+    h = Net::HTTP.new(myPage, 80)
+    puts "Fetching: #{myPage}"
+    resp, data = h.get('/')
+    puts "Got #{myPage}:  #{resp.message}"
+  }
+end
+
+p threads
+
+#threads.each { |aThread|  aThread.join }
+
+
+
+#load './jab.rb'
+#bar
+#fu = Jab.new
+#fu.foo
 
 
 ##tests = [ 

@@ -157,8 +157,8 @@ class Scraper # journal
   def get(uri, params = [])
   end
 
-  def man
-    @@style = "with style"
+  def inbound_links(uri)
+    @@engine = "http://www.opensiteexplorer.org/links.html?&site=#{uri}"
   end
 
 end

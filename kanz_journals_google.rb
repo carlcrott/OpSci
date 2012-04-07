@@ -81,7 +81,7 @@ journals.each do |row|
     first_link = page.search('#ires').search('li')[0].search('h3').search('a').first
     journal_url = first_link.attributes['href'].text().split('&')[0].split('=')[1]
 
-    first_link = page.search('#ires').at_xpath('ol/li[@class="g"]/div')#.first.attributes['href'].text()
+    first_link = page.search('#ires').at_xpath('ol/li[@class="g"]/div')
 
     @publisher = Publisher.new(row, journal_url, 'checking.com') 
     puts ("#{@publisher.hash}")
