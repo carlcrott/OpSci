@@ -21,21 +21,14 @@ end
 def build_json(arr)
   full_array = []
 
-  # arr = ["http://www.biomedcentral.com/bmcblooddisord/", "BMC Blood Disorders"]
-  if  arr[1][0..28] == 'http://www.biomedcentral.com/' # BMC-internal journals
-    abb = arr[1].split('/')[3]
+  # arr = ["http://heart.bmj.com/contents-by-date.0.dtl", "Heart"]
+  if  arr[1].include? '.bmj.com/'
+    abb = arr[1].split('/')[2].split('.')[0]
+    arr[1][-1] == '/' ? ( arr[1].chop ) : "" # ensure all URLS end without "/"
     @temp = {
       "url"   => "#{arr[1]}",
-      "rss"   => "http://www.biomedcentral.com/#{abb}/latest/rss",
-      "index" => "http://www.biomedcentral.com/#{abb}/archive"
-    }
-
-  # arr = ["http://www.biotechnologyforbiofuels.com", "Biotechnology for Biofuels"]
-  elsif arr[1][0..6] == 'http://' 
-    @temp = {
-      "url"   => "#{arr[1]}",
-      "rss"   => "#{arr[1]}/latest/rss",
-      "index" => "#{arr[1]}/archive"
+      "rss"   => "http://#{abb}.bmj.com/rss/recent.xml",
+      "index" => "http://#{abb}.bmj.com/content/by/year"
     }
   else
     puts "BLEEP! BLOOP! I dont know how to build this entry: #{arr}"
@@ -86,19 +79,15 @@ end
 
 
 def main()  
-  page = Mechanize.new.get('http://www.biomedcentral.com/journals')
-#  journals = page.search('#leftDiv').xpath('/ul').count
-  journals = page.search('h3')
-  p journals.count
+  page = Mechanize.new.get('http://group.bmj.com/group/media/bmj-journals-information-centre')
+  journals = page.search('#parent-fieldname-text').search('li').search('a')
 
   topics_list = []
   for journal in journals 
-#    puts journal.search('a').count
-    link = journal.search('a')[0].attributes["href"].text()
-    link[-1] == '/' ? ( link = link.chop ) : "" # ensure all URLS end without "/"
-    name = journal.search('a')[0].text()
-    p [link, name]
-    name != "" ? (topics_list << [name,link]) : ""
+    link = journal.attributes["href"].text()
+    name = journal.text()
+    link[-1] == "/" ? ( link = link.chop ) : "" # ensure all URLS end without "/"
+    topics_list << [name, link]
   end
 
   final = []

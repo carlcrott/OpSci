@@ -1,0 +1,1790 @@
+[
+    {
+        "name": "Acta Veterinaria Scandinavica",
+        "url": "http://www.actavetscand.com",
+        "rss": "http://www.actavetscand.com/latest/rss",
+        "index": "http://www.actavetscand.com/archive"
+    },
+    {
+        "name": "Addiction Science & Clinical Practice",
+        "url": "http://www.ascpjournal.org",
+        "rss": "http://www.ascpjournal.org/latest/rss",
+        "index": "http://www.ascpjournal.org/archive"
+    },
+    {
+        "name": "Advances in Integrative Omics and Applied Biotechnology",
+        "url": "http://www.integrativeomics.org",
+        "rss": "http://www.integrativeomics.org/latest/rss",
+        "index": "http://www.integrativeomics.org/archive"
+    },
+    {
+        "name": "Agriculture & Food Security",
+        "url": "http://www.agricultureandfoodsecurity.com",
+        "rss": "http://www.agricultureandfoodsecurity.com/latest/rss",
+        "index": "http://www.agricultureandfoodsecurity.com/archive"
+    },
+    {
+        "name": "AIDS Research and Therapy",
+        "url": "http://www.aidsrestherapy.com",
+        "rss": "http://www.aidsrestherapy.com/latest/rss",
+        "index": "http://www.aidsrestherapy.com/archive"
+    },
+    {
+        "name": "Algorithms for Molecular Biology",
+        "url": "http://www.almob.org",
+        "rss": "http://www.almob.org/latest/rss",
+        "index": "http://www.almob.org/archive"
+    },
+    {
+        "name": "Allergy, Asthma & Clinical Immunology",
+        "url": "http://www.aacijournal.com",
+        "rss": "http://www.aacijournal.com/latest/rss",
+        "index": "http://www.aacijournal.com/archive"
+    },
+    {
+        "name": "Alzheimer's Research & Therapy",
+        "url": "http://alzres.com",
+        "rss": "http://alzres.com/latest/rss",
+        "index": "http://alzres.com/archive"
+    },
+    {
+        "name": "AMB Express",
+        "url": "http://www.amb-express.com",
+        "rss": "http://www.amb-express.com/latest/rss",
+        "index": "http://www.amb-express.com/archive"
+    },
+    {
+        "name": "Annals of Clinical Microbiology and Antimicrobials",
+        "url": "http://www.ann-clinmicrob.com",
+        "rss": "http://www.ann-clinmicrob.com/latest/rss",
+        "index": "http://www.ann-clinmicrob.com/archive"
+    },
+    {
+        "name": "Annals of General Psychiatry",
+        "url": "http://www.annals-general-psychiatry.com",
+        "rss": "http://www.annals-general-psychiatry.com/latest/rss",
+        "index": "http://www.annals-general-psychiatry.com/archive"
+    },
+    {
+        "name": "Annals of Intensive Care",
+        "url": "http://www.annalsofintensivecare.com",
+        "rss": "http://www.annalsofintensivecare.com/latest/rss",
+        "index": "http://www.annalsofintensivecare.com/archive"
+    },
+    {
+        "name": "Annals of Surgical Innovation and Research",
+        "url": "http://www.asir-journal.com",
+        "rss": "http://www.asir-journal.com/latest/rss",
+        "index": "http://www.asir-journal.com/archive"
+    },
+    {
+        "name": "Antimicrobial Resistance and Infection Control",
+        "url": "http://www.aricjournal.com",
+        "rss": "http://www.aricjournal.com/latest/rss",
+        "index": "http://www.aricjournal.com/archive"
+    },
+    {
+        "name": "Aquatic Biosystems",
+        "url": "http://www.aquaticbiosystems.org",
+        "rss": "http://www.aquaticbiosystems.org/latest/rss",
+        "index": "http://www.aquaticbiosystems.org/archive"
+    },
+    {
+        "name": "Archives of Public Health",
+        "url": "http://www.archpublichealth.com",
+        "rss": "http://www.archpublichealth.com/latest/rss",
+        "index": "http://www.archpublichealth.com/archive"
+    },
+    {
+        "name": "Arthritis Research & Therapy",
+        "url": "http://arthritis-research.com/",
+        "rss": "idk",
+        "index": "http://arthritis-research.com/archive"
+    },
+    {
+        "name": "Asia Pacific Family Medicine",
+        "url": "http://www.apfmj.com",
+        "rss": "http://www.apfmj.com/latest/rss",
+        "index": "http://www.apfmj.com/archive"
+    },
+    {
+        "name": "Automated Experimentation",
+        "url": "http://www.aejournal.net",
+        "rss": "http://www.aejournal.net/latest/rss",
+        "index": "http://www.aejournal.net/archive"
+    },
+    {
+        "name": "Behavioral and Brain Functions",
+        "url": "http://www.behavioralandbrainfunctions.com",
+        "rss": "http://www.behavioralandbrainfunctions.com/latest/rss",
+        "index": "http://www.behavioralandbrainfunctions.com/archive"
+    },
+    {
+        "name": "BioData Mining",
+        "url": "http://www.biodatamining.org/",
+        "rss": "idk",
+        "index": "http://www.biodatamining.org/archive"
+    },
+    {
+        "name": "Biological Procedures Online",
+        "url": "http://www.biologicalproceduresonline.com",
+        "rss": "http://www.biologicalproceduresonline.com/latest/rss",
+        "index": "http://www.biologicalproceduresonline.com/archive"
+    },
+    {
+        "name": "Biology Direct",
+        "url": "http://www.biology-direct.com",
+        "rss": "http://www.biology-direct.com/latest/rss",
+        "index": "http://www.biology-direct.com/archive"
+    },
+    {
+        "name": "Biology of Mood & Anxiety Disorders",
+        "url": "http://www.biolmoodanxietydisord.com",
+        "rss": "http://www.biolmoodanxietydisord.com/latest/rss",
+        "index": "http://www.biolmoodanxietydisord.com/archive"
+    },
+    {
+        "name": "Biology of Sex Differences",
+        "url": "http://www.bsd-journal.com",
+        "rss": "http://www.bsd-journal.com/latest/rss",
+        "index": "http://www.bsd-journal.com/archive"
+    },
+    {
+        "name": "BioMedical Engineering OnLine",
+        "url": "http://www.biomedical-engineering-online.com",
+        "rss": "http://www.biomedical-engineering-online.com/latest/rss",
+        "index": "http://www.biomedical-engineering-online.com/archive"
+    },
+    {
+        "name": "BioPsychoSocial Medicine",
+        "url": "http://www.bpsmedicine.com",
+        "rss": "http://www.bpsmedicine.com/latest/rss",
+        "index": "http://www.bpsmedicine.com/archive"
+    },
+    {
+        "name": "Biotechnology for Biofuels",
+        "url": "http://www.biotechnologyforbiofuels.com",
+        "rss": "http://www.biotechnologyforbiofuels.com/latest/rss",
+        "index": "http://www.biotechnologyforbiofuels.com/archive"
+    },
+    {
+        "name": "BMC Series",
+        "url": "http://www.biotechnologyforbiofuels.com",
+        "rss": "http://www.biotechnologyforbiofuels.com/latest/rss",
+        "index": "http://www.biotechnologyforbiofuels.com/archive"
+    },
+    {
+        "name": "BMC Anesthesiology",
+        "url": "http://www.biomedcentral.com/bmcanesthesiol/",
+        "rss": "http://www.biomedcentral.com/bmcanesthesiol/latest/rss",
+        "index": "http://www.biomedcentral.com/bmcanesthesiol/archive"
+    },
+    {
+        "name": "BMC Biochemistry",
+        "url": "http://www.biomedcentral.com/bmcbiochem/",
+        "rss": "http://www.biomedcentral.com/bmcbiochem/latest/rss",
+        "index": "http://www.biomedcentral.com/bmcbiochem/archive"
+    },
+    {
+        "name": "BMC Bioinformatics",
+        "url": "http://www.biomedcentral.com/bmcbioinformatics/",
+        "rss": "http://www.biomedcentral.com/bmcbioinformatics/latest/rss",
+        "index": "http://www.biomedcentral.com/bmcbioinformatics/archive"
+    },
+    {
+        "name": "BMC Biology",
+        "url": "http://www.biomedcentral.com/bmcbiol/",
+        "rss": "http://www.biomedcentral.com/bmcbiol/latest/rss",
+        "index": "http://www.biomedcentral.com/bmcbiol/archive"
+    },
+    {
+        "name": "BMC Biophysics",
+        "url": "http://www.biomedcentral.com/bmcbiophys",
+        "rss": "http://www.biomedcentral.com/bmcbiophys/latest/rss",
+        "index": "http://www.biomedcentral.com/bmcbiophys/archive"
+    },
+    {
+        "name": "BMC Biotechnology",
+        "url": "http://www.biomedcentral.com/bmcbiotechnol/",
+        "rss": "http://www.biomedcentral.com/bmcbiotechnol/latest/rss",
+        "index": "http://www.biomedcentral.com/bmcbiotechnol/archive"
+    },
+    {
+        "name": "BMC Blood Disorders",
+        "url": "http://www.biomedcentral.com/bmcblooddisord/",
+        "rss": "http://www.biomedcentral.com/bmcblooddisord/latest/rss",
+        "index": "http://www.biomedcentral.com/bmcblooddisord/archive"
+    },
+    {
+        "name": "BMC Cancer",
+        "url": "http://www.biomedcentral.com/bmccancer/",
+        "rss": "http://www.biomedcentral.com/bmccancer/latest/rss",
+        "index": "http://www.biomedcentral.com/bmccancer/archive"
+    },
+    {
+        "name": "BMC Cardiovascular Disorders",
+        "url": "http://www.biomedcentral.com/bmccardiovascdisord/",
+        "rss": "http://www.biomedcentral.com/bmccardiovascdisord/latest/rss",
+        "index": "http://www.biomedcentral.com/bmccardiovascdisord/archive"
+    },
+    {
+        "name": "BMC Cell Biology",
+        "url": "http://www.biomedcentral.com/bmccellbiol/",
+        "rss": "http://www.biomedcentral.com/bmccellbiol/latest/rss",
+        "index": "http://www.biomedcentral.com/bmccellbiol/archive"
+    },
+    {
+        "name": "BMC Chemical Biology",
+        "url": "http://www.biomedcentral.com/bmcchembiol/",
+        "rss": "http://www.biomedcentral.com/bmcchembiol/latest/rss",
+        "index": "http://www.biomedcentral.com/bmcchembiol/archive"
+    },
+    {
+        "name": "BMC Clinical Pathology",
+        "url": "http://www.biomedcentral.com/bmcclinpathol/",
+        "rss": "http://www.biomedcentral.com/bmcclinpathol/latest/rss",
+        "index": "http://www.biomedcentral.com/bmcclinpathol/archive"
+    },
+    {
+        "name": "BMC Clinical Pharmacology",
+        "url": "http://www.biomedcentral.com/bmcclinpharmacol/",
+        "rss": "http://www.biomedcentral.com/bmcclinpharmacol/latest/rss",
+        "index": "http://www.biomedcentral.com/bmcclinpharmacol/archive"
+    },
+    {
+        "name": "BMC Complementary and Alternative Medicine",
+        "url": "http://www.biomedcentral.com/bmccomplementalternmed/",
+        "rss": "http://www.biomedcentral.com/bmccomplementalternmed/latest/rss",
+        "index": "http://www.biomedcentral.com/bmccomplementalternmed/archive"
+    },
+    {
+        "name": "BMC Dermatology",
+        "url": "http://www.biomedcentral.com/bmcdermatol/",
+        "rss": "http://www.biomedcentral.com/bmcdermatol/latest/rss",
+        "index": "http://www.biomedcentral.com/bmcdermatol/archive"
+    },
+    {
+        "name": "BMC Developmental Biology",
+        "url": "http://www.biomedcentral.com/bmcdevbiol/",
+        "rss": "http://www.biomedcentral.com/bmcdevbiol/latest/rss",
+        "index": "http://www.biomedcentral.com/bmcdevbiol/archive"
+    },
+    {
+        "name": "BMC Ear, Nose and Throat Disorders",
+        "url": "http://www.biomedcentral.com/bmcearnosethroatdisord/",
+        "rss": "http://www.biomedcentral.com/bmcearnosethroatdisord/latest/rss",
+        "index": "http://www.biomedcentral.com/bmcearnosethroatdisord/archive"
+    },
+    {
+        "name": "BMC Ecology",
+        "url": "http://www.biomedcentral.com/bmcecol/",
+        "rss": "http://www.biomedcentral.com/bmcecol/latest/rss",
+        "index": "http://www.biomedcentral.com/bmcecol/archive"
+    },
+    {
+        "name": "BMC Emergency Medicine",
+        "url": "http://www.biomedcentral.com/bmcemergmed/",
+        "rss": "http://www.biomedcentral.com/bmcemergmed/latest/rss",
+        "index": "http://www.biomedcentral.com/bmcemergmed/archive"
+    },
+    {
+        "name": "BMC Endocrine Disorders",
+        "url": "http://www.biomedcentral.com/bmcendocrdisord/",
+        "rss": "http://www.biomedcentral.com/bmcendocrdisord/latest/rss",
+        "index": "http://www.biomedcentral.com/bmcendocrdisord/archive"
+    },
+    {
+        "name": "BMC Evolutionary Biology",
+        "url": "http://www.biomedcentral.com/bmcevolbiol/",
+        "rss": "http://www.biomedcentral.com/bmcevolbiol/latest/rss",
+        "index": "http://www.biomedcentral.com/bmcevolbiol/archive"
+    },
+    {
+        "name": "BMC Family Practice",
+        "url": "http://www.biomedcentral.com/bmcfampract/",
+        "rss": "http://www.biomedcentral.com/bmcfampract/latest/rss",
+        "index": "http://www.biomedcentral.com/bmcfampract/archive"
+    },
+    {
+        "name": "BMC Gastroenterology",
+        "url": "http://www.biomedcentral.com/bmcgastroenterol/",
+        "rss": "http://www.biomedcentral.com/bmcgastroenterol/latest/rss",
+        "index": "http://www.biomedcentral.com/bmcgastroenterol/archive"
+    },
+    {
+        "name": "BMC Genetics",
+        "url": "http://www.biomedcentral.com/bmcgenet/",
+        "rss": "http://www.biomedcentral.com/bmcgenet/latest/rss",
+        "index": "http://www.biomedcentral.com/bmcgenet/archive"
+    },
+    {
+        "name": "BMC Genomics",
+        "url": "http://www.biomedcentral.com/bmcgenomics/",
+        "rss": "http://www.biomedcentral.com/bmcgenomics/latest/rss",
+        "index": "http://www.biomedcentral.com/bmcgenomics/archive"
+    },
+    {
+        "name": "BMC Geriatrics",
+        "url": "http://www.biomedcentral.com/bmcgeriatr/",
+        "rss": "http://www.biomedcentral.com/bmcgeriatr/latest/rss",
+        "index": "http://www.biomedcentral.com/bmcgeriatr/archive"
+    },
+    {
+        "name": "BMC Health Services Research",
+        "url": "http://www.biomedcentral.com/bmchealthservres/",
+        "rss": "http://www.biomedcentral.com/bmchealthservres/latest/rss",
+        "index": "http://www.biomedcentral.com/bmchealthservres/archive"
+    },
+    {
+        "name": "BMC Immunology",
+        "url": "http://www.biomedcentral.com/bmcimmunol/",
+        "rss": "http://www.biomedcentral.com/bmcimmunol/latest/rss",
+        "index": "http://www.biomedcentral.com/bmcimmunol/archive"
+    },
+    {
+        "name": "BMC Infectious Diseases",
+        "url": "http://www.biomedcentral.com/bmcinfectdis/",
+        "rss": "http://www.biomedcentral.com/bmcinfectdis/latest/rss",
+        "index": "http://www.biomedcentral.com/bmcinfectdis/archive"
+    },
+    {
+        "name": "BMC International Health and Human Rights",
+        "url": "http://www.biomedcentral.com/bmcinthealthhumrights/",
+        "rss": "http://www.biomedcentral.com/bmcinthealthhumrights/latest/rss",
+        "index": "http://www.biomedcentral.com/bmcinthealthhumrights/archive"
+    },
+    {
+        "name": "BMC Medical Education",
+        "url": "http://www.biomedcentral.com/bmcmededuc/",
+        "rss": "http://www.biomedcentral.com/bmcmededuc/latest/rss",
+        "index": "http://www.biomedcentral.com/bmcmededuc/archive"
+    },
+    {
+        "name": "BMC Medical Ethics",
+        "url": "http://www.biomedcentral.com/bmcmedethics/",
+        "rss": "http://www.biomedcentral.com/bmcmedethics/latest/rss",
+        "index": "http://www.biomedcentral.com/bmcmedethics/archive"
+    },
+    {
+        "name": "BMC Medical Genetics",
+        "url": "http://www.biomedcentral.com/bmcmedgenet/",
+        "rss": "http://www.biomedcentral.com/bmcmedgenet/latest/rss",
+        "index": "http://www.biomedcentral.com/bmcmedgenet/archive"
+    },
+    {
+        "name": "BMC Medical Genomics",
+        "url": "http://www.biomedcentral.com/bmcmedgenomics/",
+        "rss": "http://www.biomedcentral.com/bmcmedgenomics/latest/rss",
+        "index": "http://www.biomedcentral.com/bmcmedgenomics/archive"
+    },
+    {
+        "name": "BMC Medical Imaging",
+        "url": "http://www.biomedcentral.com/bmcmedimaging/",
+        "rss": "http://www.biomedcentral.com/bmcmedimaging/latest/rss",
+        "index": "http://www.biomedcentral.com/bmcmedimaging/archive"
+    },
+    {
+        "name": "BMC Medical Informatics and Decision Making",
+        "url": "http://www.biomedcentral.com/bmcmedinformdecismak/",
+        "rss": "http://www.biomedcentral.com/bmcmedinformdecismak/latest/rss",
+        "index": "http://www.biomedcentral.com/bmcmedinformdecismak/archive"
+    },
+    {
+        "name": "BMC Medical Physics",
+        "url": "http://www.biomedcentral.com/bmcmedphys/",
+        "rss": "http://www.biomedcentral.com/bmcmedphys/latest/rss",
+        "index": "http://www.biomedcentral.com/bmcmedphys/archive"
+    },
+    {
+        "name": "BMC Medical Research Methodology",
+        "url": "http://www.biomedcentral.com/bmcmedresmethodol/",
+        "rss": "http://www.biomedcentral.com/bmcmedresmethodol/latest/rss",
+        "index": "http://www.biomedcentral.com/bmcmedresmethodol/archive"
+    },
+    {
+        "name": "BMC Medicine",
+        "url": "http://www.biomedcentral.com/bmcmed/",
+        "rss": "http://www.biomedcentral.com/bmcmed/latest/rss",
+        "index": "http://www.biomedcentral.com/bmcmed/archive"
+    },
+    {
+        "name": "BMC Microbiology",
+        "url": "http://www.biomedcentral.com/bmcmicrobiol/",
+        "rss": "http://www.biomedcentral.com/bmcmicrobiol/latest/rss",
+        "index": "http://www.biomedcentral.com/bmcmicrobiol/archive"
+    },
+    {
+        "name": "BMC Molecular Biology",
+        "url": "http://www.biomedcentral.com/bmcmolbiol/",
+        "rss": "http://www.biomedcentral.com/bmcmolbiol/latest/rss",
+        "index": "http://www.biomedcentral.com/bmcmolbiol/archive"
+    },
+    {
+        "name": "BMC Musculoskeletal Disorders",
+        "url": "http://www.biomedcentral.com/bmcmusculoskeletdisord/",
+        "rss": "http://www.biomedcentral.com/bmcmusculoskeletdisord/latest/rss",
+        "index": "http://www.biomedcentral.com/bmcmusculoskeletdisord/archive"
+    },
+    {
+        "name": "BMC Nephrology",
+        "url": "http://www.biomedcentral.com/bmcnephrol/",
+        "rss": "http://www.biomedcentral.com/bmcnephrol/latest/rss",
+        "index": "http://www.biomedcentral.com/bmcnephrol/archive"
+    },
+    {
+        "name": "BMC Neurology",
+        "url": "http://www.biomedcentral.com/bmcneurol/",
+        "rss": "http://www.biomedcentral.com/bmcneurol/latest/rss",
+        "index": "http://www.biomedcentral.com/bmcneurol/archive"
+    },
+    {
+        "name": "BMC Neuroscience",
+        "url": "http://www.biomedcentral.com/bmcneurosci/",
+        "rss": "http://www.biomedcentral.com/bmcneurosci/latest/rss",
+        "index": "http://www.biomedcentral.com/bmcneurosci/archive"
+    },
+    {
+        "name": "BMC Nursing",
+        "url": "http://www.biomedcentral.com/bmcnurs/",
+        "rss": "http://www.biomedcentral.com/bmcnurs/latest/rss",
+        "index": "http://www.biomedcentral.com/bmcnurs/archive"
+    },
+    {
+        "name": "BMC Ophthalmology",
+        "url": "http://www.biomedcentral.com/bmcophthalmol/",
+        "rss": "http://www.biomedcentral.com/bmcophthalmol/latest/rss",
+        "index": "http://www.biomedcentral.com/bmcophthalmol/archive"
+    },
+    {
+        "name": "BMC Oral Health",
+        "url": "http://www.biomedcentral.com/bmcoralhealth/",
+        "rss": "http://www.biomedcentral.com/bmcoralhealth/latest/rss",
+        "index": "http://www.biomedcentral.com/bmcoralhealth/archive"
+    },
+    {
+        "name": "BMC Palliative Care",
+        "url": "http://www.biomedcentral.com/bmcpalliatcare/",
+        "rss": "http://www.biomedcentral.com/bmcpalliatcare/latest/rss",
+        "index": "http://www.biomedcentral.com/bmcpalliatcare/archive"
+    },
+    {
+        "name": "BMC Pediatrics",
+        "url": "http://www.biomedcentral.com/bmcpediatr/",
+        "rss": "http://www.biomedcentral.com/bmcpediatr/latest/rss",
+        "index": "http://www.biomedcentral.com/bmcpediatr/archive"
+    },
+    {
+        "name": "BMC Pharmacology",
+        "url": "http://www.biomedcentral.com/bmcpharmacol/",
+        "rss": "http://www.biomedcentral.com/bmcpharmacol/latest/rss",
+        "index": "http://www.biomedcentral.com/bmcpharmacol/archive"
+    },
+    {
+        "name": "BMC Physiology",
+        "url": "http://www.biomedcentral.com/bmcphysiol/",
+        "rss": "http://www.biomedcentral.com/bmcphysiol/latest/rss",
+        "index": "http://www.biomedcentral.com/bmcphysiol/archive"
+    },
+    {
+        "name": "BMC Plant Biology",
+        "url": "http://www.biomedcentral.com/bmcplantbiol/",
+        "rss": "http://www.biomedcentral.com/bmcplantbiol/latest/rss",
+        "index": "http://www.biomedcentral.com/bmcplantbiol/archive"
+    },
+    {
+        "name": "BMC Pregnancy and Childbirth",
+        "url": "http://www.biomedcentral.com/bmcpregnancychildbirth/",
+        "rss": "http://www.biomedcentral.com/bmcpregnancychildbirth/latest/rss",
+        "index": "http://www.biomedcentral.com/bmcpregnancychildbirth/archive"
+    },
+    {
+        "name": "BMC Proceedings",
+        "url": "http://www.biomedcentral.com/bmcproc/",
+        "rss": "http://www.biomedcentral.com/bmcproc/latest/rss",
+        "index": "http://www.biomedcentral.com/bmcproc/archive"
+    },
+    {
+        "name": "BMC Psychiatry",
+        "url": "http://www.biomedcentral.com/bmcpsychiatry/",
+        "rss": "http://www.biomedcentral.com/bmcpsychiatry/latest/rss",
+        "index": "http://www.biomedcentral.com/bmcpsychiatry/archive"
+    },
+    {
+        "name": "BMC Public Health",
+        "url": "http://www.biomedcentral.com/bmcpublichealth/",
+        "rss": "http://www.biomedcentral.com/bmcpublichealth/latest/rss",
+        "index": "http://www.biomedcentral.com/bmcpublichealth/archive"
+    },
+    {
+        "name": "BMC Pulmonary Medicine",
+        "url": "http://www.biomedcentral.com/bmcpulmmed/",
+        "rss": "http://www.biomedcentral.com/bmcpulmmed/latest/rss",
+        "index": "http://www.biomedcentral.com/bmcpulmmed/archive"
+    },
+    {
+        "name": "BMC Research Notes",
+        "url": "http://www.biomedcentral.com/bmcresnotes/",
+        "rss": "http://www.biomedcentral.com/bmcresnotes/latest/rss",
+        "index": "http://www.biomedcentral.com/bmcresnotes/archive"
+    },
+    {
+        "name": "BMC Structural Biology",
+        "url": "http://www.biomedcentral.com/bmcstructbiol/",
+        "rss": "http://www.biomedcentral.com/bmcstructbiol/latest/rss",
+        "index": "http://www.biomedcentral.com/bmcstructbiol/archive"
+    },
+    {
+        "name": "BMC Surgery",
+        "url": "http://www.biomedcentral.com/bmcsurg/",
+        "rss": "http://www.biomedcentral.com/bmcsurg/latest/rss",
+        "index": "http://www.biomedcentral.com/bmcsurg/archive"
+    },
+    {
+        "name": "BMC Systems Biology",
+        "url": "http://www.biomedcentral.com/bmcsystbiol/",
+        "rss": "http://www.biomedcentral.com/bmcsystbiol/latest/rss",
+        "index": "http://www.biomedcentral.com/bmcsystbiol/archive"
+    },
+    {
+        "name": "BMC Urology",
+        "url": "http://www.biomedcentral.com/bmcurol/",
+        "rss": "http://www.biomedcentral.com/bmcurol/latest/rss",
+        "index": "http://www.biomedcentral.com/bmcurol/archive"
+    },
+    {
+        "name": "BMC Veterinary Research",
+        "url": "http://www.biomedcentral.com/bmcvetres/",
+        "rss": "http://www.biomedcentral.com/bmcvetres/latest/rss",
+        "index": "http://www.biomedcentral.com/bmcvetres/archive"
+    },
+    {
+        "name": "BMC Women's Health",
+        "url": "http://www.biomedcentral.com/bmcwomenshealth/",
+        "rss": "http://www.biomedcentral.com/bmcwomenshealth/latest/rss",
+        "index": "http://www.biomedcentral.com/bmcwomenshealth/archive"
+    },
+    {
+        "name": "Breast Cancer Research",
+        "url": "http://breast-cancer-research.com/",
+        "rss": "idk",
+        "index": "http://breast-cancer-research.com/archive"
+    },
+    {
+        "name": "Cancer & Metabolism",
+        "url": "http://www.cancerandmetabolism.com",
+        "rss": "http://www.cancerandmetabolism.com/latest/rss",
+        "index": "http://www.cancerandmetabolism.com/archive"
+    },
+    {
+        "name": "Cancer Cell International",
+        "url": "http://www.cancerci.com",
+        "rss": "http://www.cancerci.com/latest/rss",
+        "index": "http://www.cancerci.com/archive"
+    },
+    {
+        "name": "Carbon Balance and Management",
+        "url": "http://www.cbmjournal.com",
+        "rss": "http://www.cbmjournal.com/latest/rss",
+        "index": "http://www.cbmjournal.com/archive"
+    },
+    {
+        "name": "Cardiovascular Diabetology",
+        "url": "http://www.cardiab.com",
+        "rss": "http://www.cardiab.com/latest/rss",
+        "index": "http://www.cardiab.com/archive"
+    },
+    {
+        "name": "Cardiovascular Ultrasound",
+        "url": "http://www.cardiovascularultrasound.com",
+        "rss": "http://www.cardiovascularultrasound.com/latest/rss",
+        "index": "http://www.cardiovascularultrasound.com/archive"
+    },
+    {
+        "name": "Cell & Bioscience",
+        "url": "http://www.cellandbioscience.com",
+        "rss": "http://www.cellandbioscience.com/latest/rss",
+        "index": "http://www.cellandbioscience.com/archive"
+    },
+    {
+        "name": "Cell Communication and Signaling",
+        "url": "http://www.biosignaling.com",
+        "rss": "http://www.biosignaling.com/latest/rss",
+        "index": "http://www.biosignaling.com/archive"
+    },
+    {
+        "name": "Cell Division",
+        "url": "http://www.celldiv.com",
+        "rss": "http://www.celldiv.com/latest/rss",
+        "index": "http://www.celldiv.com/archive"
+    },
+    {
+        "name": "Cell Regeneration",
+        "url": "http://www.cellregenerationjournal.com",
+        "rss": "http://www.cellregenerationjournal.com/latest/rss",
+        "index": "http://www.cellregenerationjournal.com/archive"
+    },
+    {
+        "name": "Chemistry Central Journal",
+        "url": "http://www.journal.chemistrycentral.com/",
+        "rss": "idk",
+        "index": "http://www.journal.chemistrycentral.com/archive"
+    },
+    {
+        "name": "Child and Adolescent Psychiatry and Mental Health",
+        "url": "http://www.capmh.com",
+        "rss": "http://www.capmh.com/latest/rss",
+        "index": "http://www.capmh.com/archive"
+    },
+    {
+        "name": "Chinese Medicine",
+        "url": "http://www.cmjournal.org",
+        "rss": "http://www.cmjournal.org/latest/rss",
+        "index": "http://www.cmjournal.org/archive"
+    },
+    {
+        "name": "Chiropractic & Manual Therapies",
+        "url": "http://www.chiromt.com",
+        "rss": "http://www.chiromt.com/latest/rss",
+        "index": "http://www.chiromt.com/archive"
+    },
+    {
+        "name": "Cilia",
+        "url": "http://www.ciliajournal.com",
+        "rss": "http://www.ciliajournal.com/latest/rss",
+        "index": "http://www.ciliajournal.com/archive"
+    },
+    {
+        "name": "Clinical and Molecular Allergy",
+        "url": "http://www.clinicalmolecularallergy.com",
+        "rss": "http://www.clinicalmolecularallergy.com/latest/rss",
+        "index": "http://www.clinicalmolecularallergy.com/archive"
+    },
+    {
+        "name": "Clinical and Translational Allergy",
+        "url": "http://www.ctajournal.com",
+        "rss": "http://www.ctajournal.com/latest/rss",
+        "index": "http://www.ctajournal.com/archive"
+    },
+    {
+        "name": "Clinical and Translational Medicine",
+        "url": "http://www.clintransmed.com",
+        "rss": "http://www.clintransmed.com/latest/rss",
+        "index": "http://www.clintransmed.com/archive"
+    },
+    {
+        "name": "Clinical Epigenetics",
+        "url": "http://www.clinicalepigeneticsjournal.com",
+        "rss": "http://www.clinicalepigeneticsjournal.com/latest/rss",
+        "index": "http://www.clinicalepigeneticsjournal.com/archive"
+    },
+    {
+        "name": "Clinical Proteomics",
+        "url": "http://www.clinicalproteomicsjournal.com",
+        "rss": "http://www.clinicalproteomicsjournal.com/latest/rss",
+        "index": "http://www.clinicalproteomicsjournal.com/archive"
+    },
+    {
+        "name": "Clinical Sarcoma Research",
+        "url": "http://www.clinicalsarcomaresearch.com",
+        "rss": "http://www.clinicalsarcomaresearch.com/latest/rss",
+        "index": "http://www.clinicalsarcomaresearch.com/archive"
+    },
+    {
+        "name": "Comparative Hepatology",
+        "url": "http://www.comparative-hepatology.com",
+        "rss": "http://www.comparative-hepatology.com/latest/rss",
+        "index": "http://www.comparative-hepatology.com/archive"
+    },
+    {
+        "name": "Conflict and Health",
+        "url": "http://www.conflictandhealth.com",
+        "rss": "http://www.conflictandhealth.com/latest/rss",
+        "index": "http://www.conflictandhealth.com/archive"
+    },
+    {
+        "name": "Cost Effectiveness and Resource Allocation",
+        "url": "http://www.resource-allocation.com",
+        "rss": "http://www.resource-allocation.com/latest/rss",
+        "index": "http://www.resource-allocation.com/archive"
+    },
+    {
+        "name": "Cough",
+        "url": "http://www.coughjournal.com",
+        "rss": "http://www.coughjournal.com/latest/rss",
+        "index": "http://www.coughjournal.com/archive"
+    },
+    {
+        "name": "Critical Care",
+        "url": "http://ccforum.com/",
+        "rss": "idk",
+        "index": "http://ccforum.com/archive"
+    },
+    {
+        "name": "Critical Ultrasound Journal",
+        "url": "http://www.criticalultrasoundjournal.com",
+        "rss": "http://www.criticalultrasoundjournal.com/latest/rss",
+        "index": "http://www.criticalultrasoundjournal.com/archive"
+    },
+    {
+        "name": "Diabetology & Metabolic Syndrome",
+        "url": "http://www.dmsjournal.com",
+        "rss": "http://www.dmsjournal.com/latest/rss",
+        "index": "http://www.dmsjournal.com/archive"
+    },
+    {
+        "name": "Diagnostic Pathology",
+        "url": "http://www.diagnosticpathology.org",
+        "rss": "http://www.diagnosticpathology.org/latest/rss",
+        "index": "http://www.diagnosticpathology.org/archive"
+    },
+    {
+        "name": "EJNMMI Research",
+        "url": "http://www.ejnmmires.com",
+        "rss": "http://www.ejnmmires.com/latest/rss",
+        "index": "http://www.ejnmmires.com/archive"
+    },
+    {
+        "name": "Emerging Themes in Epidemiology",
+        "url": "http://www.ete-online.com",
+        "rss": "http://www.ete-online.com/latest/rss",
+        "index": "http://www.ete-online.com/archive"
+    },
+    {
+        "name": "Environmental Evidence",
+        "url": "http://www.environmentalevidencejournal.org",
+        "rss": "http://www.environmentalevidencejournal.org/latest/rss",
+        "index": "http://www.environmentalevidencejournal.org/archive"
+    },
+    {
+        "name": "Environmental Health",
+        "url": "http://www.ehjournal.net",
+        "rss": "http://www.ehjournal.net/latest/rss",
+        "index": "http://www.ehjournal.net/archive"
+    },
+    {
+        "name": "Environmental Sciences Europe",
+        "url": "http://www.enveurope.com",
+        "rss": "http://www.enveurope.com/latest/rss",
+        "index": "http://www.enveurope.com/archive"
+    },
+    {
+        "name": "Epidemiologic Perspectives & Innovations",
+        "url": "http://www.epi-perspectives.com",
+        "rss": "http://www.epi-perspectives.com/latest/rss",
+        "index": "http://www.epi-perspectives.com/archive"
+    },
+    {
+        "name": "Epigenetics & Chromatin",
+        "url": "http://www.epigeneticsandchromatin.com",
+        "rss": "http://www.epigeneticsandchromatin.com/latest/rss",
+        "index": "http://www.epigeneticsandchromatin.com/archive"
+    },
+    {
+        "name": "EPMA Journal",
+        "url": "http://www.epmajournal.com",
+        "rss": "http://www.epmajournal.com/latest/rss",
+        "index": "http://www.epmajournal.com/archive"
+    },
+    {
+        "name": "EURASIP Journal on Bioinformatics and Systems Biology",
+        "url": "http://bsb.eurasipjournals.com",
+        "rss": "http://bsb.eurasipjournals.com/latest/rss",
+        "index": "http://bsb.eurasipjournals.com/archive"
+    },
+    {
+        "name": "European Journal of Medical Research",
+        "url": "http://www.eurjmedres.com",
+        "rss": "http://www.eurjmedres.com/latest/rss",
+        "index": "http://www.eurjmedres.com/archive"
+    },
+    {
+        "name": "EvoDevo",
+        "url": "http://www.evodevojournal.com",
+        "rss": "http://www.evodevojournal.com/latest/rss",
+        "index": "http://www.evodevojournal.com/archive"
+    },
+    {
+        "name": "Experimental & Translational Stroke Medicine",
+        "url": "http://www.etsmjournal.com",
+        "rss": "http://www.etsmjournal.com/latest/rss",
+        "index": "http://www.etsmjournal.com/archive"
+    },
+    {
+        "name": "Experimental Hematology and Oncology",
+        "url": "http://www.ehoonline.org",
+        "rss": "http://www.ehoonline.org/latest/rss",
+        "index": "http://www.ehoonline.org/archive"
+    },
+    {
+        "name": "Extreme Physiology & Medicine",
+        "url": "http://www.extremephysiolmed.com",
+        "rss": "http://www.extremephysiolmed.com/latest/rss",
+        "index": "http://www.extremephysiolmed.com/archive"
+    },
+    {
+        "name": "Fibrogenesis & Tissue Repair",
+        "url": "http://www.fibrogenesis.com",
+        "rss": "http://www.fibrogenesis.com/latest/rss",
+        "index": "http://www.fibrogenesis.com/archive"
+    },
+    {
+        "name": "Flavour",
+        "url": "http://www.flavourjournal.com",
+        "rss": "http://www.flavourjournal.com/latest/rss",
+        "index": "http://www.flavourjournal.com/archive"
+    },
+    {
+        "name": "Fluids and Barriers of the CNS",
+        "url": "http://www.fluidsbarrierscns.com",
+        "rss": "http://www.fluidsbarrierscns.com/latest/rss",
+        "index": "http://www.fluidsbarrierscns.com/archive"
+    },
+    {
+        "name": "Frontiers in Zoology",
+        "url": "http://www.frontiersinzoology.com",
+        "rss": "http://www.frontiersinzoology.com/latest/rss",
+        "index": "http://www.frontiersinzoology.com/archive"
+    },
+    {
+        "name": "Genetic Vaccines and Therapy",
+        "url": "http://www.gvt-journal.com",
+        "rss": "http://www.gvt-journal.com/latest/rss",
+        "index": "http://www.gvt-journal.com/archive"
+    },
+    {
+        "name": "Genetics Selection Evolution",
+        "url": "http://www.gsejournal.org",
+        "rss": "http://www.gsejournal.org/latest/rss",
+        "index": "http://www.gsejournal.org/archive"
+    },
+    {
+        "name": "Genome Biology",
+        "url": "http://genomebiology.com",
+        "rss": "http://genomebiology.com/latest/rss",
+        "index": "http://genomebiology.com/archive"
+    },
+    {
+        "name": "Genome Integrity",
+        "url": "http://www.genomeintegrity.com",
+        "rss": "http://www.genomeintegrity.com/latest/rss",
+        "index": "http://www.genomeintegrity.com/archive"
+    },
+    {
+        "name": "Genome Medicine",
+        "url": "http://genomemedicine.com",
+        "rss": "http://genomemedicine.com/latest/rss",
+        "index": "http://genomemedicine.com/archive"
+    },
+    {
+        "name": "Geochemical Transactions",
+        "url": "http://www.geochemicaltransactions.com",
+        "rss": "http://www.geochemicaltransactions.com/latest/rss",
+        "index": "http://www.geochemicaltransactions.com/archive"
+    },
+    {
+        "name": "GigaScience",
+        "url": "http://www.gigasciencejournal.com",
+        "rss": "http://www.gigasciencejournal.com/latest/rss",
+        "index": "http://www.gigasciencejournal.com/archive"
+    },
+    {
+        "name": "Globalization and Health",
+        "url": "http://www.globalizationandhealth.com",
+        "rss": "http://www.globalizationandhealth.com/latest/rss",
+        "index": "http://www.globalizationandhealth.com/archive"
+    },
+    {
+        "name": "Gut Pathogens",
+        "url": "http://www.gutpathogens.com",
+        "rss": "http://www.gutpathogens.com/latest/rss",
+        "index": "http://www.gutpathogens.com/archive"
+    },
+    {
+        "name": "Harm Reduction Journal",
+        "url": "http://www.harmreductionjournal.com",
+        "rss": "http://www.harmreductionjournal.com/latest/rss",
+        "index": "http://www.harmreductionjournal.com/archive"
+    },
+    {
+        "name": "Head & Face Medicine",
+        "url": "http://www.head-face-med.com",
+        "rss": "http://www.head-face-med.com/latest/rss",
+        "index": "http://www.head-face-med.com/archive"
+    },
+    {
+        "name": "Head & Neck Oncology",
+        "url": "http://www.headandneckoncology.org",
+        "rss": "http://www.headandneckoncology.org/latest/rss",
+        "index": "http://www.headandneckoncology.org/archive"
+    },
+    {
+        "name": "Health and Quality of Life Outcomes",
+        "url": "http://www.hqlo.com",
+        "rss": "http://www.hqlo.com/latest/rss",
+        "index": "http://www.hqlo.com/archive"
+    },
+    {
+        "name": "Health Information Science and Systems",
+        "url": "http://www.hissjournal.com",
+        "rss": "http://www.hissjournal.com/latest/rss",
+        "index": "http://www.hissjournal.com/archive"
+    },
+    {
+        "name": "Health Research Policy and Systems",
+        "url": "http://www.health-policy-systems.com",
+        "rss": "http://www.health-policy-systems.com/latest/rss",
+        "index": "http://www.health-policy-systems.com/archive"
+    },
+    {
+        "name": "Hereditary Cancer in Clinical Practice",
+        "url": "http://www.hccpjournal.com",
+        "rss": "http://www.hccpjournal.com/latest/rss",
+        "index": "http://www.hccpjournal.com/archive"
+    },
+    {
+        "name": "Herpesviridae",
+        "url": "http://www.herpesviridae.org",
+        "rss": "http://www.herpesviridae.org/latest/rss",
+        "index": "http://www.herpesviridae.org/archive"
+    },
+    {
+        "name": "The HUGO Journal",
+        "url": "http://www.thehugojournal.com",
+        "rss": "http://www.thehugojournal.com/latest/rss",
+        "index": "http://www.thehugojournal.com/archive"
+    },
+    {
+        "name": "Human Resources for Health",
+        "url": "http://www.human-resources-health.com",
+        "rss": "http://www.human-resources-health.com/latest/rss",
+        "index": "http://www.human-resources-health.com/archive"
+    },
+    {
+        "name": "Immunity & Ageing",
+        "url": "http://www.immunityageing.com",
+        "rss": "http://www.immunityageing.com/latest/rss",
+        "index": "http://www.immunityageing.com/archive"
+    },
+    {
+        "name": "Implementation Science",
+        "url": "http://www.implementationscience.com",
+        "rss": "http://www.implementationscience.com/latest/rss",
+        "index": "http://www.implementationscience.com/archive"
+    },
+    {
+        "name": "In Silico Pharmacology",
+        "url": "http://www.in-silico-pharmacology.com",
+        "rss": "http://www.in-silico-pharmacology.com/latest/rss",
+        "index": "http://www.in-silico-pharmacology.com/archive"
+    },
+    {
+        "name": "Infectious Agents and Cancer",
+        "url": "http://www.infectagentscancer.com",
+        "rss": "http://www.infectagentscancer.com/latest/rss",
+        "index": "http://www.infectagentscancer.com/archive"
+    },
+    {
+        "name": "International Aquatic Research",
+        "url": "http://www.intaquares.com",
+        "rss": "http://www.intaquares.com/latest/rss",
+        "index": "http://www.intaquares.com/archive"
+    },
+    {
+        "name": "International Archives of Medicine",
+        "url": "http://www.intarchmed.com",
+        "rss": "http://www.intarchmed.com/latest/rss",
+        "index": "http://www.intarchmed.com/archive"
+    },
+    {
+        "name": "International Breastfeeding Journal",
+        "url": "http://www.internationalbreastfeedingjournal.com",
+        "rss": "http://www.internationalbreastfeedingjournal.com/latest/rss",
+        "index": "http://www.internationalbreastfeedingjournal.com/archive"
+    },
+    {
+        "name": "International Journal for Equity in Health",
+        "url": "http://www.equityhealthj.com",
+        "rss": "http://www.equityhealthj.com/latest/rss",
+        "index": "http://www.equityhealthj.com/archive"
+    },
+    {
+        "name": "International Journal of Behavioral Nutrition and Physical Activity",
+        "url": "http://www.ijbnpa.org",
+        "rss": "http://www.ijbnpa.org/latest/rss",
+        "index": "http://www.ijbnpa.org/archive"
+    },
+    {
+        "name": "International Journal of Emergency Medicine",
+        "url": "http://www.intjem.com",
+        "rss": "http://www.intjem.com/latest/rss",
+        "index": "http://www.intjem.com/archive"
+    },
+    {
+        "name": "International Journal of Health Geographics",
+        "url": "http://www.ij-healthgeographics.com",
+        "rss": "http://www.ij-healthgeographics.com/latest/rss",
+        "index": "http://www.ij-healthgeographics.com/archive"
+    },
+    {
+        "name": "International Journal of Mental Health Systems",
+        "url": "http://www.ijmhs.com",
+        "rss": "http://www.ijmhs.com/latest/rss",
+        "index": "http://www.ijmhs.com/archive"
+    },
+    {
+        "name": "International Journal of Pediatric Endocrinology",
+        "url": "http://www.ijpeonline.com",
+        "rss": "http://www.ijpeonline.com/latest/rss",
+        "index": "http://www.ijpeonline.com/archive"
+    },
+    {
+        "name": "International Journal Of Recycling of Organic Waste in Agriculture",
+        "url": "http://www.ijrowa.com",
+        "rss": "http://www.ijrowa.com/latest/rss",
+        "index": "http://www.ijrowa.com/archive"
+    },
+    {
+        "name": "Investigative Genetics",
+        "url": "http://www.investigativegenetics.com",
+        "rss": "http://www.investigativegenetics.com/latest/rss",
+        "index": "http://www.investigativegenetics.com/archive"
+    },
+    {
+        "name": "Irish Veterinary Journal",
+        "url": "http://www.irishvetjournal.org",
+        "rss": "http://www.irishvetjournal.org/latest/rss",
+        "index": "http://www.irishvetjournal.org/archive"
+    },
+    {
+        "name": "Israel Journal of Health Policy Research",
+        "url": "http://www.ijhpr.org",
+        "rss": "http://www.ijhpr.org/latest/rss",
+        "index": "http://www.ijhpr.org/archive"
+    },
+    {
+        "name": "Italian Journal of Pediatrics",
+        "url": "http://www.ijponline.net",
+        "rss": "http://www.ijponline.net/latest/rss",
+        "index": "http://www.ijponline.net/archive"
+    },
+    {
+        "name": "Journal of Animal Science and Biotechnology",
+        "url": "http://www.jasbsci.com",
+        "rss": "http://www.jasbsci.com/latest/rss",
+        "index": "http://www.jasbsci.com/archive"
+    },
+    {
+        "name": "Journal of Biological Engineering",
+        "url": "http://www.jbioleng.org",
+        "rss": "http://www.jbioleng.org/latest/rss",
+        "index": "http://www.jbioleng.org/archive"
+    },
+    {
+        "name": "Journal of Biomedical Science",
+        "url": "http://www.jbiomedsci.com",
+        "rss": "http://www.jbiomedsci.com/latest/rss",
+        "index": "http://www.jbiomedsci.com/archive"
+    },
+    {
+        "name": "Journal of Biomedical Semantics",
+        "url": "http://www.jbiomedsem.com",
+        "rss": "http://www.jbiomedsem.com/latest/rss",
+        "index": "http://www.jbiomedsem.com/archive"
+    },
+    {
+        "name": "Journal of Brachial Plexus and Peripheral Nerve Injury",
+        "url": "http://www.jbppni.com",
+        "rss": "http://www.jbppni.com/latest/rss",
+        "index": "http://www.jbppni.com/archive"
+    },
+    {
+        "name": "Journal of Cardiothoracic Surgery",
+        "url": "http://www.cardiothoracicsurgery.org",
+        "rss": "http://www.cardiothoracicsurgery.org/latest/rss",
+        "index": "http://www.cardiothoracicsurgery.org/archive"
+    },
+    {
+        "name": "Journal of Cardiovascular Magnetic Resonance",
+        "url": "http://jcmr-online.com",
+        "rss": "http://jcmr-online.com/latest/rss",
+        "index": "http://jcmr-online.com/archive"
+    },
+    {
+        "name": "Journal of Cheminformatics",
+        "url": "http://www.jcheminf.com",
+        "rss": "http://www.jcheminf.com/latest/rss",
+        "index": "http://www.jcheminf.com/archive"
+    },
+    {
+        "name": "Journal of Circadian Rhythms",
+        "url": "http://www.jcircadianrhythms.com",
+        "rss": "http://www.jcircadianrhythms.com/latest/rss",
+        "index": "http://www.jcircadianrhythms.com/archive"
+    },
+    {
+        "name": "Journal of Clinical Bioinformatics",
+        "url": "http://www.jclinbioinformatics.com",
+        "rss": "http://www.jclinbioinformatics.com/latest/rss",
+        "index": "http://www.jclinbioinformatics.com/archive"
+    },
+    {
+        "name": "Journal of Ethnobiology and Ethnomedicine",
+        "url": "http://www.ethnobiomed.com",
+        "rss": "http://www.ethnobiomed.com/latest/rss",
+        "index": "http://www.ethnobiomed.com/archive"
+    },
+    {
+        "name": "Journal of Experimental & Clinical Cancer Research",
+        "url": "http://www.jeccr.com",
+        "rss": "http://www.jeccr.com/latest/rss",
+        "index": "http://www.jeccr.com/archive"
+    },
+    {
+        "name": "Journal of Foot and Ankle Research",
+        "url": "http://www.jfootankleres.com",
+        "rss": "http://www.jfootankleres.com/latest/rss",
+        "index": "http://www.jfootankleres.com/archive"
+    },
+    {
+        "name": "Journal of Hematology & Oncology",
+        "url": "http://www.jhoonline.org",
+        "rss": "http://www.jhoonline.org/latest/rss",
+        "index": "http://www.jhoonline.org/archive"
+    },
+    {
+        "name": "Journal of Inflammation",
+        "url": "http://www.journal-inflammation.com",
+        "rss": "http://www.journal-inflammation.com/latest/rss",
+        "index": "http://www.journal-inflammation.com/archive"
+    },
+    {
+        "name": "Journal of Interventional Neuroradiology",
+        "url": "http://www.jintervneuroradiology.com",
+        "rss": "http://www.jintervneuroradiology.com/latest/rss",
+        "index": "http://www.jintervneuroradiology.com/archive"
+    },
+    {
+        "name": "The Journal of Mathematical Neuroscience",
+        "url": "http://www.mathematical-neuroscience.com",
+        "rss": "http://www.mathematical-neuroscience.com/latest/rss",
+        "index": "http://www.mathematical-neuroscience.com/archive"
+    },
+    {
+        "name": "Journal of Medical Case Reports",
+        "url": "http://www.jmedicalcasereports.com",
+        "rss": "http://www.jmedicalcasereports.com/latest/rss",
+        "index": "http://www.jmedicalcasereports.com/archive"
+    },
+    {
+        "name": "Journal of Molecular Signaling",
+        "url": "http://www.jmolecularsignaling.com",
+        "rss": "http://www.jmolecularsignaling.com/latest/rss",
+        "index": "http://www.jmolecularsignaling.com/archive"
+    },
+    {
+        "name": "Journal of Nanobiotechnology",
+        "url": "http://www.jnanobiotechnology.com",
+        "rss": "http://www.jnanobiotechnology.com/latest/rss",
+        "index": "http://www.jnanobiotechnology.com/archive"
+    },
+    {
+        "name": "Journal of Negative Results in BioMedicine",
+        "url": "http://www.jnrbm.com",
+        "rss": "http://www.jnrbm.com/latest/rss",
+        "index": "http://www.jnrbm.com/archive"
+    },
+    {
+        "name": "Journal of Neurodevelopmental Disorders",
+        "url": "http://www.jneurodevdisorders.com",
+        "rss": "http://www.jneurodevdisorders.com/latest/rss",
+        "index": "http://www.jneurodevdisorders.com/archive"
+    },
+    {
+        "name": "Journal of NeuroEngineering and Rehabilitation",
+        "url": "http://www.jneuroengrehab.com",
+        "rss": "http://www.jneuroengrehab.com/latest/rss",
+        "index": "http://www.jneuroengrehab.com/archive"
+    },
+    {
+        "name": "Journal of Neuroinflammation",
+        "url": "http://www.jneuroinflammation.com",
+        "rss": "http://www.jneuroinflammation.com/latest/rss",
+        "index": "http://www.jneuroinflammation.com/archive"
+    },
+    {
+        "name": "Journal of Occupational Medicine and Toxicology",
+        "url": "http://www.occup-med.com",
+        "rss": "http://www.occup-med.com/latest/rss",
+        "index": "http://www.occup-med.com/archive"
+    },
+    {
+        "name": "Journal of Orthopaedic Surgery and Research",
+        "url": "http://www.josr-online.com",
+        "rss": "http://www.josr-online.com/latest/rss",
+        "index": "http://www.josr-online.com/archive"
+    },
+    {
+        "name": "Journal of Ovarian Research",
+        "url": "http://www.ovarianresearch.com",
+        "rss": "http://www.ovarianresearch.com/latest/rss",
+        "index": "http://www.ovarianresearch.com/archive"
+    },
+    {
+        "name": "Journal of Physiological Anthropology",
+        "url": "http://www.jphysiolanthropol.com",
+        "rss": "http://www.jphysiolanthropol.com/latest/rss",
+        "index": "http://www.jphysiolanthropol.com/archive"
+    },
+    {
+        "name": "Journal of Systems Chemistry",
+        "url": "http://www.jsystchem.com",
+        "rss": "http://www.jsystchem.com/latest/rss",
+        "index": "http://www.jsystchem.com/archive"
+    },
+    {
+        "name": "Journal of the International Society of Sports Nutrition",
+        "url": "http://www.jissn.com",
+        "rss": "http://www.jissn.com/latest/rss",
+        "index": "http://www.jissn.com/archive"
+    },
+    {
+        "name": "Journal of Translational Medicine",
+        "url": "http://www.translational-medicine.com",
+        "rss": "http://www.translational-medicine.com/latest/rss",
+        "index": "http://www.translational-medicine.com/archive"
+    },
+    {
+        "name": "Journal of Trauma Management & Outcomes",
+        "url": "http://www.traumamanagement.org",
+        "rss": "http://www.traumamanagement.org/latest/rss",
+        "index": "http://www.traumamanagement.org/archive"
+    },
+    {
+        "name": "Lipids in Health and Disease",
+        "url": "http://www.lipidworld.com",
+        "rss": "http://www.lipidworld.com/latest/rss",
+        "index": "http://www.lipidworld.com/archive"
+    },
+    {
+        "name": "Longevity & Healthspan",
+        "url": "http://www.longevityandhealthspan.com",
+        "rss": "http://www.longevityandhealthspan.com/latest/rss",
+        "index": "http://www.longevityandhealthspan.com/archive"
+    },
+    {
+        "name": "Malaria Journal",
+        "url": "http://www.malariajournal.com",
+        "rss": "http://www.malariajournal.com/latest/rss",
+        "index": "http://www.malariajournal.com/archive"
+    },
+    {
+        "name": "Medical Gas Research",
+        "url": "http://www.medicalgasresearch.com",
+        "rss": "http://www.medicalgasresearch.com/latest/rss",
+        "index": "http://www.medicalgasresearch.com/archive"
+    },
+    {
+        "name": "Microbial Cell Factories",
+        "url": "http://www.microbialcellfactories.com",
+        "rss": "http://www.microbialcellfactories.com/latest/rss",
+        "index": "http://www.microbialcellfactories.com/archive"
+    },
+    {
+        "name": "Microbial Informatics and Experimentation",
+        "url": "http://www.microbialinformaticsj.com",
+        "rss": "http://www.microbialinformaticsj.com/latest/rss",
+        "index": "http://www.microbialinformaticsj.com/archive"
+    },
+    {
+        "name": "Microbiome",
+        "url": "http://www.microbiomejournal.com",
+        "rss": "http://www.microbiomejournal.com/latest/rss",
+        "index": "http://www.microbiomejournal.com/archive"
+    },
+    {
+        "name": "Mobile DNA",
+        "url": "http://www.mobilednajournal.com",
+        "rss": "http://www.mobilednajournal.com/latest/rss",
+        "index": "http://www.mobilednajournal.com/archive"
+    },
+    {
+        "name": "Molecular Autism",
+        "url": "http://www.molecularautism.com",
+        "rss": "http://www.molecularautism.com/latest/rss",
+        "index": "http://www.molecularautism.com/archive"
+    },
+    {
+        "name": "Molecular Brain",
+        "url": "http://www.molecularbrain.com",
+        "rss": "http://www.molecularbrain.com/latest/rss",
+        "index": "http://www.molecularbrain.com/archive"
+    },
+    {
+        "name": "Molecular Cancer",
+        "url": "http://www.molecular-cancer.com",
+        "rss": "http://www.molecular-cancer.com/latest/rss",
+        "index": "http://www.molecular-cancer.com/archive"
+    },
+    {
+        "name": "Molecular Cytogenetics",
+        "url": "http://www.molecularcytogenetics.org",
+        "rss": "http://www.molecularcytogenetics.org/latest/rss",
+        "index": "http://www.molecularcytogenetics.org/archive"
+    },
+    {
+        "name": "Molecular Neurodegeneration",
+        "url": "http://www.molecularneurodegeneration.com",
+        "rss": "http://www.molecularneurodegeneration.com/latest/rss",
+        "index": "http://www.molecularneurodegeneration.com/archive"
+    },
+    {
+        "name": "Molecular Pain",
+        "url": "http://www.molecularpain.com",
+        "rss": "http://www.molecularpain.com/latest/rss",
+        "index": "http://www.molecularpain.com/archive"
+    },
+    {
+        "name": "Neural Development",
+        "url": "http://www.neuraldevelopment.com",
+        "rss": "http://www.neuraldevelopment.com/latest/rss",
+        "index": "http://www.neuraldevelopment.com/archive"
+    },
+    {
+        "name": "Neural Systems & Circuits",
+        "url": "http://www.neuralsystemsandcircuits.com",
+        "rss": "http://www.neuralsystemsandcircuits.com/latest/rss",
+        "index": "http://www.neuralsystemsandcircuits.com/archive"
+    },
+    {
+        "name": "Nonlinear Biomedical Physics",
+        "url": "http://www.nonlinearbiomedphys.com",
+        "rss": "http://www.nonlinearbiomedphys.com/latest/rss",
+        "index": "http://www.nonlinearbiomedphys.com/archive"
+    },
+    {
+        "name": "Nutrition & Metabolism",
+        "url": "http://www.nutritionandmetabolism.com",
+        "rss": "http://www.nutritionandmetabolism.com/latest/rss",
+        "index": "http://www.nutritionandmetabolism.com/archive"
+    },
+    {
+        "name": "Nutrition Journal",
+        "url": "http://www.nutritionj.com",
+        "rss": "http://www.nutritionj.com/latest/rss",
+        "index": "http://www.nutritionj.com/archive"
+    },
+    {
+        "name": "Open Network Biology",
+        "url": "http://www.opennetworkbiology.com",
+        "rss": "http://www.opennetworkbiology.com/latest/rss",
+        "index": "http://www.opennetworkbiology.com/archive"
+    },
+    {
+        "name": "Open Research Computation",
+        "url": "http://www.openresearchcomputation.com",
+        "rss": "http://www.openresearchcomputation.com/latest/rss",
+        "index": "http://www.openresearchcomputation.com/archive"
+    },
+    {
+        "name": "Optical Nanoscopy",
+        "url": "http://www.optnano.com",
+        "rss": "http://www.optnano.com/latest/rss",
+        "index": "http://www.optnano.com/archive"
+    },
+    {
+        "name": "Orphanet Journal of Rare Diseases",
+        "url": "http://www.ojrd.com",
+        "rss": "http://www.ojrd.com/latest/rss",
+        "index": "http://www.ojrd.com/archive"
+    },
+    {
+        "name": "Parasites & Vectors",
+        "url": "http://www.parasitesandvectors.com",
+        "rss": "http://www.parasitesandvectors.com/latest/rss",
+        "index": "http://www.parasitesandvectors.com/archive"
+    },
+    {
+        "name": "Particle and Fibre Toxicology",
+        "url": "http://www.particleandfibretoxicology.com",
+        "rss": "http://www.particleandfibretoxicology.com/latest/rss",
+        "index": "http://www.particleandfibretoxicology.com/archive"
+    },
+    {
+        "name": "Patient Safety in Surgery",
+        "url": "http://www.pssjournal.com",
+        "rss": "http://www.pssjournal.com/latest/rss",
+        "index": "http://www.pssjournal.com/archive"
+    },
+    {
+        "name": "Pediatric Rheumatology",
+        "url": "http://www.ped-rheum.com",
+        "rss": "http://www.ped-rheum.com/latest/rss",
+        "index": "http://www.ped-rheum.com/archive"
+    },
+    {
+        "name": "Perioperative Medicine",
+        "url": "http://www.perioperativemedicinejournal.com",
+        "rss": "http://www.perioperativemedicinejournal.com/latest/rss",
+        "index": "http://www.perioperativemedicinejournal.com/archive"
+    },
+    {
+        "name": "Philosophy, Ethics, and Humanities in Medicine",
+        "url": "http://www.peh-med.com",
+        "rss": "http://www.peh-med.com/latest/rss",
+        "index": "http://www.peh-med.com/archive"
+    },
+    {
+        "name": "Plant Methods",
+        "url": "http://www.plantmethods.com",
+        "rss": "http://www.plantmethods.com/latest/rss",
+        "index": "http://www.plantmethods.com/archive"
+    },
+    {
+        "name": "Population Health Metrics",
+        "url": "http://www.pophealthmetrics.com",
+        "rss": "http://www.pophealthmetrics.com/latest/rss",
+        "index": "http://www.pophealthmetrics.com/archive"
+    },
+    {
+        "name": "Progress in Biomaterials",
+        "url": "http://www.progressbiomaterials.com",
+        "rss": "http://www.progressbiomaterials.com/latest/rss",
+        "index": "http://www.progressbiomaterials.com/archive"
+    },
+    {
+        "name": "Proteome Science",
+        "url": "http://www.proteomesci.com",
+        "rss": "http://www.proteomesci.com/latest/rss",
+        "index": "http://www.proteomesci.com/archive"
+    },
+    {
+        "name": "Radiation Oncology",
+        "url": "http://www.ro-journal.com",
+        "rss": "http://www.ro-journal.com/latest/rss",
+        "index": "http://www.ro-journal.com/archive"
+    },
+    {
+        "name": "Reproductive Biology and Endocrinology",
+        "url": "http://www.rbej.com",
+        "rss": "http://www.rbej.com/latest/rss",
+        "index": "http://www.rbej.com/archive"
+    },
+    {
+        "name": "Reproductive Health",
+        "url": "http://www.reproductive-health-journal.com",
+        "rss": "http://www.reproductive-health-journal.com/latest/rss",
+        "index": "http://www.reproductive-health-journal.com/archive"
+    },
+    {
+        "name": "Respiratory Research",
+        "url": "http://respiratory-research.com",
+        "rss": "http://respiratory-research.com/latest/rss",
+        "index": "http://respiratory-research.com/archive"
+    },
+    {
+        "name": "Retrovirology",
+        "url": "http://www.retrovirology.com",
+        "rss": "http://www.retrovirology.com/latest/rss",
+        "index": "http://www.retrovirology.com/archive"
+    },
+    {
+        "name": "Rice",
+        "url": "http://www.thericejournal.com",
+        "rss": "http://www.thericejournal.com/latest/rss",
+        "index": "http://www.thericejournal.com/archive"
+    },
+    {
+        "name": "Scandinavian Journal of Trauma, Resuscitation and Emergency Medicine",
+        "url": "http://www.sjtrem.com",
+        "rss": "http://www.sjtrem.com/latest/rss",
+        "index": "http://www.sjtrem.com/archive"
+    },
+    {
+        "name": "Scoliosis",
+        "url": "http://www.scoliosisjournal.com",
+        "rss": "http://www.scoliosisjournal.com/latest/rss",
+        "index": "http://www.scoliosisjournal.com/archive"
+    },
+    {
+        "name": "Silence",
+        "url": "http://www.silencejournal.com",
+        "rss": "http://www.silencejournal.com/latest/rss",
+        "index": "http://www.silencejournal.com/archive"
+    },
+    {
+        "name": "Skeletal Muscle",
+        "url": "http://www.skeletalmusclejournal.com",
+        "rss": "http://www.skeletalmusclejournal.com/latest/rss",
+        "index": "http://www.skeletalmusclejournal.com/archive"
+    },
+    {
+        "name": "Source Code for Biology and Medicine",
+        "url": "http://www.scfbm.org",
+        "rss": "http://www.scfbm.org/latest/rss",
+        "index": "http://www.scfbm.org/archive"
+    },
+    {
+        "name": "Sports Medicine, Arthroscopy, Rehabilitation, Therapy & Technology",
+        "url": "http://www.smarttjournal.com",
+        "rss": "http://www.smarttjournal.com/latest/rss",
+        "index": "http://www.smarttjournal.com/archive"
+    },
+    {
+        "name": "SpringerPlus",
+        "url": "http://www.springerplus.com",
+        "rss": "http://www.springerplus.com/latest/rss",
+        "index": "http://www.springerplus.com/archive"
+    },
+    {
+        "name": "Stem Cell Research & Therapy",
+        "url": "http://stemcellres.com",
+        "rss": "http://stemcellres.com/latest/rss",
+        "index": "http://stemcellres.com/archive"
+    },
+    {
+        "name": "Substance Abuse Treatment, Prevention, and Policy",
+        "url": "http://www.substanceabusepolicy.com",
+        "rss": "http://www.substanceabusepolicy.com/latest/rss",
+        "index": "http://www.substanceabusepolicy.com/archive"
+    },
+    {
+        "name": "Systematic Reviews",
+        "url": "http://www.systematicreviewsjournal.com",
+        "rss": "http://www.systematicreviewsjournal.com/latest/rss",
+        "index": "http://www.systematicreviewsjournal.com/archive"
+    },
+    {
+        "name": "Theoretical Biology and Medical Modelling",
+        "url": "http://www.tbiomed.com",
+        "rss": "http://www.tbiomed.com/latest/rss",
+        "index": "http://www.tbiomed.com/archive"
+    },
+    {
+        "name": "Thrombosis Journal",
+        "url": "http://www.thrombosisjournal.com",
+        "rss": "http://www.thrombosisjournal.com/latest/rss",
+        "index": "http://www.thrombosisjournal.com/archive"
+    },
+    {
+        "name": "Thyroid Research",
+        "url": "http://www.thyroidresearchjournal.com",
+        "rss": "http://www.thyroidresearchjournal.com/latest/rss",
+        "index": "http://www.thyroidresearchjournal.com/archive"
+    },
+    {
+        "name": "Tobacco Induced Diseases",
+        "url": "http://www.tobaccoinduceddiseases.com",
+        "rss": "http://www.tobaccoinduceddiseases.com/latest/rss",
+        "index": "http://www.tobaccoinduceddiseases.com/archive"
+    },
+    {
+        "name": "Translational Neurodegeneration",
+        "url": "http://www.translationalneurodegeneration.com",
+        "rss": "http://www.translationalneurodegeneration.com/latest/rss",
+        "index": "http://www.translationalneurodegeneration.com/archive"
+    },
+    {
+        "name": "Translational Respiratory Medicine",
+        "url": "http://www.transrespmed.com",
+        "rss": "http://www.transrespmed.com/latest/rss",
+        "index": "http://www.transrespmed.com/archive"
+    },
+    {
+        "name": "Transplantation Research",
+        "url": "http://www.transplantationresearch.com",
+        "rss": "http://www.transplantationresearch.com/latest/rss",
+        "index": "http://www.transplantationresearch.com/archive"
+    },
+    {
+        "name": "Trials",
+        "url": "http://www.trialsjournal.com",
+        "rss": "http://www.trialsjournal.com/latest/rss",
+        "index": "http://www.trialsjournal.com/archive"
+    },
+    {
+        "name": "Vascular Cell",
+        "url": "http://www.vascularcell.com",
+        "rss": "http://www.vascularcell.com/latest/rss",
+        "index": "http://www.vascularcell.com/archive"
+    },
+    {
+        "name": "Veterinary Research",
+        "url": "http://www.veterinaryresearch.org",
+        "rss": "http://www.veterinaryresearch.org/latest/rss",
+        "index": "http://www.veterinaryresearch.org/archive"
+    },
+    {
+        "name": "Virology Journal",
+        "url": "http://www.virologyj.com",
+        "rss": "http://www.virologyj.com/latest/rss",
+        "index": "http://www.virologyj.com/archive"
+    },
+    {
+        "name": "World Journal of Emergency Surgery",
+        "url": "http://www.wjes.org",
+        "rss": "http://www.wjes.org/latest/rss",
+        "index": "http://www.wjes.org/archive"
+    },
+    {
+        "name": "World Journal of Surgical Oncology",
+        "url": "http://www.wjso.com",
+        "rss": "http://www.wjso.com/latest/rss",
+        "index": "http://www.wjso.com/archive"
+    },
+    {
+        "name": "Australia and New Zealand Health Policy",
+        "url": "http://www.anzhealthpolicy.com",
+        "rss": "http://www.anzhealthpolicy.com/latest/rss",
+        "index": "http://www.anzhealthpolicy.com/archive"
+    },
+    {
+        "name": " Beilstein Journal of Organic Chemistry ",
+        "url": "http://archive.biomedcentral.com/1860-5397",
+        "rss": "idk",
+        "index": "http://archive.biomedcentral.com/1860-5397/archive"
+    },
+    {
+        "name": "BioMagnetic Research and Technology",
+        "url": "http://www.biomagres.com",
+        "rss": "http://www.biomagres.com/latest/rss",
+        "index": "http://www.biomagres.com/archive"
+    },
+    {
+        "name": "Biomedical Digital Libraries",
+        "url": "http://www.bio-diglib.com",
+        "rss": "http://www.bio-diglib.com/latest/rss",
+        "index": "http://www.bio-diglib.com/archive"
+    },
+    {
+        "name": "Cases Journal",
+        "url": "http://www.casesjournal.com",
+        "rss": "http://www.casesjournal.com/latest/rss",
+        "index": "http://www.casesjournal.com/archive"
+    },
+    {
+        "name": "Cell & Chromosome",
+        "url": "http://www.cellandchromosome.com",
+        "rss": "http://www.cellandchromosome.com/latest/rss",
+        "index": "http://www.cellandchromosome.com/archive"
+    },
+    {
+        "name": "Centrosome Research",
+        "url": "http://www.centrosomeresearch.com",
+        "rss": "http://www.centrosomeresearch.com/latest/rss",
+        "index": "http://www.centrosomeresearch.com/archive"
+    },
+    {
+        "name": "Clinical Practice and Epidemiology in Mental Health",
+        "url": "http://www.cpementalhealth.com",
+        "rss": "http://www.cpementalhealth.com/latest/rss",
+        "index": "http://www.cpementalhealth.com/archive"
+    },
+    {
+        "name": " CytoJournal ",
+        "url": "http://archive.biomedcentral.com/1742-6413",
+        "rss": "idk",
+        "index": "http://archive.biomedcentral.com/1742-6413/archive"
+    },
+    {
+        "name": "Dynamic Medicine",
+        "url": "http://www.dynamic-med.com",
+        "rss": "http://www.dynamic-med.com/latest/rss",
+        "index": "http://www.dynamic-med.com/archive"
+    },
+    {
+        "name": " eHealth International ",
+        "url": "http://archive.biomedcentral.com/1476-3591",
+        "rss": "idk",
+        "index": "http://archive.biomedcentral.com/1476-3591/archive"
+    },
+    {
+        "name": "Filaria Journal",
+        "url": "http://www.filariajournal.com",
+        "rss": "http://www.filariajournal.com/latest/rss",
+        "index": "http://www.filariajournal.com/archive"
+    },
+    {
+        "name": "Immunome Research",
+        "url": "http://www.immunome-research.com",
+        "rss": "http://www.immunome-research.com/latest/rss",
+        "index": "http://www.immunome-research.com/archive"
+    },
+    {
+        "name": "International Seminars in Surgical Oncology",
+        "url": "http://www.issoonline.com",
+        "rss": "http://www.issoonline.com/latest/rss",
+        "index": "http://www.issoonline.com/archive"
+    },
+    {
+        "name": "Journal of Autoimmune Diseases",
+        "url": "http://www.jautoimdis.com",
+        "rss": "http://www.jautoimdis.com/latest/rss",
+        "index": "http://www.jautoimdis.com/archive"
+    },
+    {
+        "name": "Journal of Biology",
+        "url": "http://jbiol.com/",
+        "rss": "http://jbiol.com//latest/rss",
+        "index": "http://jbiol.com//archive"
+    },
+    {
+        "name": "Journal of Biomedical Discovery and Collaboration",
+        "url": "http://www.j-biomed-discovery.com",
+        "rss": "http://www.j-biomed-discovery.com/latest/rss",
+        "index": "http://www.j-biomed-discovery.com/archive"
+    },
+    {
+        "name": " Journal of Carcinogenesis ",
+        "url": "http://archive.biomedcentral.com/1477-3163",
+        "rss": "idk",
+        "index": "http://archive.biomedcentral.com/1477-3163/archive"
+    },
+    {
+        "name": " Journal of Experimental & Clinical Assisted Reproduction ",
+        "url": "http://archive.biomedcentral.com/1743-1050",
+        "rss": "idk",
+        "index": "http://archive.biomedcentral.com/1743-1050/archive"
+    },
+    {
+        "name": "Journal of Immune Based Therapies and Vaccines",
+        "url": "http://www.jibtherapies.com",
+        "rss": "http://www.jibtherapies.com/latest/rss",
+        "index": "http://www.jibtherapies.com/archive"
+    },
+    {
+        "name": " Journal of the International AIDS Society ",
+        "url": "http://archive.biomedcentral.com/1758-2652",
+        "rss": "idk",
+        "index": "http://archive.biomedcentral.com/1758-2652/archive"
+    },
+    {
+        "name": "Kinetoplastid Biology and Disease",
+        "url": "http://www.kinetoplastids.com",
+        "rss": "http://www.kinetoplastids.com/latest/rss",
+        "index": "http://www.kinetoplastids.com/archive"
+    },
+    {
+        "name": "Medical Immunology",
+        "url": "http://www.medimmunol.com",
+        "rss": "http://www.medimmunol.com/latest/rss",
+        "index": "http://www.medimmunol.com/archive"
+    },
+    {
+        "name": "Nuclear Receptor",
+        "url": "http://www.nuclear-receptor.com",
+        "rss": "http://www.nuclear-receptor.com/latest/rss",
+        "index": "http://www.nuclear-receptor.com/archive"
+    },
+    {
+        "name": "Osteopathic Medicine and Primary Care",
+        "url": "http://www.om-pc.com",
+        "rss": "http://www.om-pc.com/latest/rss",
+        "index": "http://www.om-pc.com/archive"
+    },
+    {
+        "name": "PathoGenetics",
+        "url": "http://www.pathogeneticsjournal.com",
+        "rss": "http://www.pathogeneticsjournal.com/latest/rss",
+        "index": "http://www.pathogeneticsjournal.com/archive"
+    }
+]
