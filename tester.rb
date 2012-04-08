@@ -1,27 +1,48 @@
-#require 'nokogiri'
-#require 'mechanize'
-#require 'net/http'
-#require 'json'
+require 'nokogiri'
+require 'mechanize'
+require 'net/http'
+require 'json'
 require 'net/http'
 
-pages = %w( www.rubycentral.com
-            www.awl.com
-            www.pragmaticprogrammer.com
-           )
 
-threads = []
+page = Mechanize.new.get('http://booksandjournals.brillonline.com/content/all/a?perPage=100')
 
-for page in pages
-  threads << Thread.new(page) { |myPage|
+pages_count_by_100 = page.search('.paginator').search('a')
 
-    h = Net::HTTP.new(myPage, 80)
-    puts "Fetching: #{myPage}"
-    resp, data = h.get('/')
-    puts "Got #{myPage}:  #{resp.message}"
-  }
+iters = []
+for iter in pages_count_by_100
+
+  iters << iter.text()
+
 end
 
-p threads
+p iters
+
+
+
+# find the highest number in a string
+#text of each a tag
+
+
+
+#pages = %w( www.rubycentral.com
+#            www.awl.com
+#            www.pragmaticprogrammer.com
+#           )
+
+#threads = []
+
+#for page in pages
+#  threads << Thread.new(page) { |myPage|
+
+#    h = Net::HTTP.new(myPage, 80)
+#    puts "Fetching: #{myPage}"
+#    resp, data = h.get('/')
+#    puts "Got #{myPage}:  #{resp.message}"
+#  }
+#end
+
+#p threads
 
 #threads.each { |aThread|  aThread.join }
 
