@@ -88,33 +88,45 @@ end
 def main()
   journals = []
 
-#  url_param = ('a'..'z').to_a << 'number'
-  url_param = ['a']
-  for param in url_param
-    puts "getting '#{param}' journals"
-    # open the first page of every parameter: ['a'..'z','number']
-    page = Mechanize.new.get("http://booksandjournals.brillonline.com/content/all/#{param}?perPage=100")
+  url_param = ('a'..'z').to_a << 'number'
+  duh = []
+  for i in url_param
+    duh << Thread.new(i) { |param|
 
-    p "should find %s journals" % page.search('.publistwrapper').search('p')[0].text().split(' ')[-2]
+      puts "getting '#{param}' journals"
+      # open the first page of every parameter: ['a'..'z','number']
+      page = Mechanize.new.get("http://booksandjournals.brillonline.com/content/all/#{param}?perPage=100")
 
-    # figure out how many iterations are present within the page for that param
-    # FIXME: ghetto rigged
-    iteration_links = page.search('.paginator').search('a')
-    iters = []
-    for link in iteration_links
-      iters << link.text().to_i # all words will evaluate to 0
-    end
+#      p "should find %s journals" % page.search('.publistwrapper').search('p')[0].text().split(' ')[-2]
 
-    # loop through each iteration
-    # Ex: (1..4)
-    for param_iter in (1..iters.max)
-      page_iteration = Mechanize.new.get("http://booksandjournals.brillonline.com/content/all/#{param}?perPage=100&page=#{param_iter}")
-      links = page_iteration.search('.separated-list').search('li').search('h5').search('a')
-      for link in links
-        journals << [ link.text(), link.attributes['href'].text().split(';')[0] ]
+      # figure out how many iterations are present within the page for that param
+      # FIXME: ghetto rigged
+      iteration_links = page.search('.paginator').search('a')
+      iters = []
+      for link in iteration_links
+        iters << link.text().to_i # all words will evaluate to 0
       end
-    end
-    iters = []
+
+      iters.length == 0 ? ( iters << 1 ) : ""
+
+      # loop through each iteration
+      # Ex: (1..4)
+
+      for param_iter in (1..iters.max)
+        u = "http://booksandjournals.brillonline.com/content/all/#{param}?perPage=100&page=#{param_iter}"
+        puts "scraping #{u}"
+        page_iteration = Mechanize.new.get(u)
+        links = page_iteration.search('.separated-list').search('li').search('h5').search('a')
+        for link in links
+          journals << [ link.text(), link.attributes['href'].text().split(';')[0] ]
+        end
+      end
+
+
+    }
+    duh.each {|d| d.join}
+
+
   end
 
   # after building the list of journals

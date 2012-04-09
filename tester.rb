@@ -5,9 +5,11 @@ require 'json'
 require 'net/http'
 
 
-page = Mechanize.new.get('http://booksandjournals.brillonline.com/content/all/a?perPage=100')
+page = Mechanize.new.get('http://booksandjournals.brillonline.com/content/journals/f?perPage=100')
 
 pages_count_by_100 = page.search('.paginator').search('a')
+
+p pages_count_by_100.count
 
 iters = []
 for iter in pages_count_by_100
