@@ -7,11 +7,7 @@
 
 # KWs:
 # journal, index, volume, issue, 
-# 
-
-
-# WORDS
-# journal index, recent issues, index, journal volumes, volume, volumes, subject, topics, all subjects, archive
+# journal index, recent issues, issue, recent, current, index, journal volumes, volume, volumes, subject, topics, all subjects, archive
 
 # SEARCH
 # Search by existing topic KWs >> "chemistry" + "biology" + "physics"
