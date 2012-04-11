@@ -5,21 +5,23 @@ require 'json'
 require 'net/http'
 
 
-page = Mechanize.new.get('http://booksandjournals.brillonline.com/content/journals/f?perPage=100')
+#page = Mechanize.new.get 'http://www.elsevier.com/wps/product/cws_home/717248'
+page = Mechanize.new.get 'http://www.journals.elsevier.com/acta-oecologica/#description'
 
-pages_count_by_100 = page.search('.paginator').search('a')
+#link = page.search('//a[text()="Access Full"]')
 
-p pages_count_by_100.count
+link = page.search('//a[contains(text(), "Access Full")]')
 
-iters = []
-for iter in pages_count_by_100
 
-  iters << iter.text()
 
-end
 
-p iters
+p link[1].attributes['href'].text()
 
+
+
+#          .search('//a[text() = "wobidah"]')
+#          .search('//td[text()="${nbsp}"]
+#          .search('//*[contains(@id, "_divSpecialities")]')
 
 
 # find the highest number in a string

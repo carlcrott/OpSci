@@ -69,3 +69,5 @@ wiley-blackwell
 wiley-liss
 wolters kluwer
 world scientific
+
+http://diyhpl.us/cgit/pyscholar/tree/zotero-import
