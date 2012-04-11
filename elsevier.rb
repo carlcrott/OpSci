@@ -106,7 +106,7 @@ def main()
   final = []
   for i in issue_list
 #    build_json(t)
-    journal_entry = verify_data(build_json(t))
+    journal_entry = verify_data(build_json(i))
     final << journal_entry
 
     puts "sleeping..."
