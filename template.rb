@@ -50,17 +50,14 @@ def main()
 #  for journal in journals 
 #    link = "http://journals.cambridge.org/action/#{journal.attributes["href"].text()}"
 #    name = journal.text()
-#    p link
-#    p name
-##    p [name, link]
+#    p [name, link]
 #    topics_list << [name, link]
 #  end
 
 #  final = []
 #  for t in topics_list
-##    build_json(t)
-##    journal_entry = verify_data(build_json(t))
-##    final << journal_entry
+#    journal_entry = verify_data(build_json(t))
+#    final << journal_entry
 #  end
 
 #  puts "VALID JSON? #{final.to_json.valid_json?}"
