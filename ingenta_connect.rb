@@ -16,14 +16,15 @@ end
 def build_json(arr)
   full_array = []
 
-  # arr = ["Robotica", "http://journals.cambridge.org/action/displayJournal?jid=ROB"]
-  if  arr[1].split('/')[-1].split('?')[0] == 'displayJournal'
-    abb = arr[1].split('=')[1]
+  # arr = ["Accounting, Business & Financial History", "http://www.ingentaconnect.com/content/routledg/rabf"]
+  if  arr[1].split('/')[0..3].join == 'http:www.ingentaconnect.comcontent'
+    abb = arr[1].split('/')[-2..-1].join('/')
 
     temp = {
-      "url"   => "#{arr[1]}",
-      "rss"   => "http://journals.cambridge.org/data/rss/feed_#{abb}_rss_2.0.xml",
-      "index" => "http://journals.cambridge.org/action/displayBackIssues?jid=#{abb}"
+      "url"   => arr[1],
+                # http://api.ingentaconnect.com/content/wb/bk18017/latest?format=rss
+      "rss"   => "http://api.ingentaconnect.com/content/#{abb}/latest?format=rss",
+      "index" => arr[1]
     }
   else
     puts "BLEEP! BLOOP! I dont know how to build this entry: #{arr}"
@@ -43,33 +44,40 @@ end
 
 
 def main()  
-  page = Mechanize.new.get 'http://www.ingentaconnect.com/'
-  journals = page.search('div.description-box').search('li').search('a')
+  page_size = 20000
+#  page = Mechanize.new.get 'http://www.ingentaconnect.com/content/title?j_type=online&j_startat=Aa&j_endat=Zz&j_pagesize=#1000000&j_page=1&j_availability=all'
+  page = Mechanize.new.get 'http://www.ingentaconnect.com/content/title?j_type=online&j_startat=Aa&j_endat=Zz&j_pagesize=#{page_size}&j_page=1&j_availability=all'
 
-#  topics_list = []
-#  for journal in journals 
-#    link = "http://journals.cambridge.org/action/#{journal.attributes["href"].text()}"
-#    name = journal.text()
-#    p [name, link]
-#    topics_list << [name, link]
-#  end
+  if page_size < page.search('div.left-col')[0].search('.rust')[0].text().to_i
+    page = Mechanize.new.get 'http://www.ingentaconnect.com/content/title?j_type=online&j_startat=Aa&j_endat=Zf&j_pagesize=#{max_j}&j_page=1&j_availability=all'
+  end
 
-#  final = []
-#  for t in topics_list
-#    journal_entry = verify_data(build_json(t))
-#    final << journal_entry
-#  end
+  journals = page.search('ul.bobby')[0].search('li/a')
 
-#  puts "VALID JSON? #{final.to_json.valid_json?}"
-#  output_file = "#{REPO_NAME}_output.json"
+  topics_list = []
+  for journal in journals
+    link = "http://www.ingentaconnect.com#{journal.attributes["href"].text()}".split(';')[0]
+    name = journal.text().gsub(/[\n\t\r]/,"")
+    p [name, link]
+    topics_list << [name, link]
+  end
 
-#  puts "Writing output to file: #{output_file}"
-#  File.open(output_file,'a').write(final.to_json)
+  final = []
+  for t in topics_list
+    journal_entry = verify_data(build_json(t))
+    final << journal_entry
+  end
 
-#  puts "VERIFYING... All outputs should be quiet"
-#  for entry in final
-#    verify_data(entry, false)
-#  end
+  puts "VALID JSON? #{final.to_json.valid_json?}"
+  output_file = "#{REPO_NAME}_output.json"
+
+  puts "Writing output to file: #{output_file}"
+  File.open(output_file,'a').write(final.to_json)
+
+  puts "VERIFYING... All outputs should be quiet"
+  for entry in final
+    verify_data(entry, false)
+  end
 
 end
 

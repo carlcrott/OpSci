@@ -6,14 +6,17 @@ require 'net/http'
 
 
 #page = Mechanize.new.get 'http://www.elsevier.com/wps/product/cws_home/717248'
-links = Mechanize.new.get('http://benjamins.com/#catalog/journals/aila').search('a')
+
+page = Mechanize.new.get 'http://www.ingentaconnect.com/content/title?j_type=online&j_startat=Da&j_endat=Df&j_pagesize=200&j_page=1&j_availability=all'
+
+links = page.search('div.left-col')[0].search('.rust')[0].text().to_i
 
 #p links.search('//a[contains(@text,"ingentaConnect")]').count
-p links.count
+p links
 
-for link in links
-  p link.text()
-end
+#for link in links
+#  p link.text()
+#end
 
 
 #link = page.search('//a[text()="Access Full"]')
