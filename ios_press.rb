@@ -17,7 +17,8 @@ def build_json(arr)
   full_array = []
 
   # arr = ["Advances in Neuroimmune Biology", "http://www.iospress.nl/journal/advances-in-neuroimmune-biology/", "http://iospress.metapress.com/content/1878-948X/"]
-  if  arr[1].split('/') == 4 && arr[1].split('/')[2..3].join == 'www.iospress.nljournal'
+          ["Advances in Neuroimmune Biology", "http://www.iospress.nl/journal/advances-in-neuroimmune-biology/", "http://iospress.metapress.com/content/1878-948X/"]
+  if  arr[1].split('/').length == 5 && arr[1].split('/')[2..3].join == 'www.iospress.nljournal'
     abb = arr[1].split('=')[1]
 
     temp = {
@@ -58,7 +59,7 @@ def main()
     begin
       index = index_page.search('//a[contains(text(),"Contents")]')[0].attributes['href'].text()
     rescue
-      puts link
+      puts "Journal has external website: #{link}"
       index = index_page.search('.text-holder/.holder/.box').search('a')[0].attributes['href'].text()
     end
 
