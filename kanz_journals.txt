@@ -34,7 +34,7 @@ iop publishing
 ios press
 japan society of applied physics
 john benjamins
-john wiley & sons
+
 johns hopkins university press
 karger
 landes bioscience
@@ -66,8 +66,7 @@ university of california press
 university of chicago press
 university of illinois press
 walter de gruyter
-wiley-blackwell
-wiley-liss
+wiley online library
 wolters kluwer
 world scientific
 

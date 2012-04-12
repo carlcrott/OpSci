@@ -44,7 +44,7 @@ end
 
 def main()  
   page = Mechanize.new.get 'http://journals.cambridge.org/action/browseJournalsAlphabetically'
-  journals = page.search('div.description-box').search('li').search('a')
+  journals = page.search('table.all-subjects').search('li').search('a')
 
 #  topics_list = []
 #  for journal in journals 
