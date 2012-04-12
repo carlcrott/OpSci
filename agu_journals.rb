@@ -2,19 +2,17 @@ require 'open-uri'
 require 'nokogiri'
 require 'mechanize'
 require 'json'
+require './skraper_addons.rb'
 
 __FILE__ == $0 ? ( REPO_NAME = __FILE__.split(".")[0] ) : ""
 
 class String
-  def valid_json?
-    begin
-      JSON.parse(self)
-      return true
-    rescue Exception => e
-      return false
-    end
-  end
+  include JsonMethods
 end
+
+
+
+
 
 def build_json(arr)
 

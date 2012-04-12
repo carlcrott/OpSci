@@ -2,18 +2,12 @@ require 'open-uri'
 require 'nokogiri'
 require 'mechanize'
 require 'json'
+require './skraper_addons.rb'
 
 __FILE__ == $0 ? ( REPO_NAME = __FILE__.split(".")[0] ) : ""
 
 class String
-  def valid_json?
-    begin
-      JSON.parse(self)
-      return true
-    rescue Exception => e
-      return false
-    end
-  end
+  include JsonMethods
 end
 
 
@@ -50,37 +44,6 @@ end
 
 
 
-
-
-
-def verify_data(entry, v = true)
-  begin ###### Verify url
-     open(entry['url']).is_a? Tempfile
-  rescue
-    puts "ERROR: Expecting '#{entry['url']}' to parse open-uri" unless entry['index'] == 'idk'
-  end
-
-  begin ###### Verify rss
-    Mechanize.new.get(entry['rss']).content.class.is_a? Nokogiri::XML::Document
-  rescue
-    if entry['rss'] != 'idk' 
-      puts "ERROR: Expecting '#{entry['rss']}' to parse as Mechanize::File class"
-      entry['rss'] = 'idk'
-    end
-  end
-
-  begin ###### Verify index 
-    page = Mechanize.new.get(entry['index'])
-    url_tests = []
-    (2008..2012).map {|x| x="[text()*='#{x}']"; url_tests << page.search(x).count}
-    raise "" unless url_tests.any? != 0
-  rescue
-    entry['index'] == 'idk' ? "": (puts "ERROR: Expecting '#{entry['index']}' to contain strings '2008..2012'")
-  end
-
-  v ? (puts "VERIFIED: #{entry}") : ""
-  return entry
-end
 
 
 
