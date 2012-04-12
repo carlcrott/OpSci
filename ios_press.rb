@@ -75,16 +75,16 @@ def main()
     final << journal_entry
   end
 
-#  puts "VALID JSON? #{final.to_json.valid_json?}"
-#  output_file = "#{REPO_NAME}_output.json"
+  puts "VALID JSON? #{final.to_json.valid_json?}"
+  output_file = "#{REPO_NAME}_output.json"
 
-#  puts "Writing output to file: #{output_file}"
-#  File.open(output_file,'a').write(final.to_json)
+  puts "Writing output to file: #{output_file}"
+  File.open(output_file,'a').write(final.to_json)
 
-#  puts "VERIFYING... All outputs should be quiet"
-#  for entry in final
-#    verify_data(entry, false)
-#  end
+  puts "VERIFYING... All outputs should be quiet"
+  for entry in final
+    verify_data(entry, false)
+  end
 
 end
 
