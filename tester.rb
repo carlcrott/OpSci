@@ -6,17 +6,17 @@ require 'net/http'
 
 
 #page = Mechanize.new.get 'http://www.elsevier.com/wps/product/cws_home/717248'
-page = Mechanize.new.get 'http://www.journals.elsevier.com/acta-oecologica/#description'
+page = Mechanize.new.get 'http://www.iospress.nl/journal/annals-of-plant-protection-sciences/'
 
 #link = page.search('//a[text()="Access Full"]')
 
-link = page.search('//a[contains(text(), "Access Full")]')
+#link = page.search('//a[contains(text(), "Access Full")]')
+links = 
 
-
-
-
-p link[1].attributes['href'].text()
-
+for l in links
+  p l.attributes['href'].text().include? 'http://'
+end
+#p link.count
 
 
 #          .search('//a[text() = "wobidah"]')
