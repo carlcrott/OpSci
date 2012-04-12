@@ -16,14 +16,14 @@ end
 def build_json(arr)
   full_array = []
 
-  # arr = ["Stress", "http://informahealthcare.com/journal/sts"]
-  if  arr[1].split('/')[2] == 'informahealthcare.com'
-    abb = arr[1].split('/')[-1]
+  # arr = ["Decision Analysis", "http://da.pubs.informs.org"]
+  if  arr[1].split('/')[-1].split('.')[1..3].join == 'pubsinformsorg'
+    abb = arr[1].split('/')[-1].split('.')[0]
 
     temp = {
       "url"   => "#{arr[1]}",
-      "rss"   => "http://informahealthcare.com/action/showFeed?ui=0&mi=3w36vt&ai=1lgs&jc=#{abb}&type=etoc&feed=rss",
-      "index" => "http://informahealthcare.com/loi/#{abb}"
+      "rss"   => "idk",
+      "index" => "http://www.informs.org/Pubs/#{abb.upcase}/Past-Issues"
     }
   else
     puts "BLEEP! BLOOP! I dont know how to build this entry: #{arr}"
@@ -40,20 +40,16 @@ end
 
 
 
- 
 
 
-def main()
-  puts "Informa bans @ > 25 sessions / 5 minutes AKA 5sess/min"
-  
-  page = Mechanize.new.get 'http://informahealthcare.com/action/showPublications?display=byAlphabet&pubType=journal'
-  journals = page.search('div#content').search('a')
+def main()  
+  page = Mechanize.new.get 'http://www.informs.org/Find-Research-Publications/Journals'
+  journals = page.search('div.publication-item')
 
   topics_list = []
   for journal in journals 
-    link = "http://informahealthcare.com#{journal.attributes["href"].text()}"
-    name = journal.text()
-
+    link = journal.search('//a[contains(text(), "Editorial Site")]')[0].attributes["href"].text()
+    name = journal.search('h3').text()
     p [name, link]
     topics_list << [name, link]
   end
@@ -62,7 +58,6 @@ def main()
   for t in topics_list
     journal_entry = verify_data(build_json(t))
     final << journal_entry
-    sleep(60) # needs to be under 5 sessions / min
   end
 
   puts "VALID JSON? #{final.to_json.valid_json?}"
