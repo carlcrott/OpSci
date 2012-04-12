@@ -13,9 +13,8 @@ end
 
 def build_json(arr)
   full_array = []
-
   # arr = ["Agricultural and Forest Meteorology", "/wps/product/cws_home/503295", "http://www.sciencedirect.com/science/journal/01681923"]
-  if  arr[1].split('/')[5] == 'cws_home'
+  if  arr[1].split('/')[3] == 'cws_home'
     abb = arr[2].split('/')[-1]
 
     temp = {
@@ -42,7 +41,9 @@ end
 
 
 
-def main()  
+def main()
+  puts "I havn't pushed this one to the limit.. so the sleep(10)s are just guesses"
+  
   page = Mechanize.new.get 'http://www.elsevier.com/wps/find/subject_area_browse.cws_home?showAll=y&SH1=0&sh1State=-H01-H02-H03-H04-H05-L01-L02-L03-L04-L05-L06-L07-L08-L09-P01-P02-P03-P04-P05-P06-P07-P08-P09-P10-P11-P12-S01-S02-S03-S04-S05-S06-S08&allParents=y'
   
   topics_list = page.search('/html/body/div/div/div[3]/div[2]/table/tr/td[2]/table/tr[2]/td/div/table/tr[2]/td[2]/table/tr[4]/td[2]/table/tr/td/table[2]/tr').search('table/tr/td').search('a')
