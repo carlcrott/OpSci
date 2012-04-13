@@ -1705,7 +1705,7 @@
 "japan society of applied physics":[{"url":"http://www.jsap.or.jp/english/","index":"checking.com"}],
 "john benjamins":[{"url":"http://benjamins.com/","index":"checking.com"}],
 
-"john wiley & sons":[{"url":"http://www.wiley.com/","index":"checking.com"}],
+
 
 "johns hopkins university press":[{"url":"http://www.press.jhu.edu/","index":"checking.com"}],
 "karger":[{"url":"http://www.karger.com/","index":"checking.com"}],
@@ -1738,8 +1738,8 @@
 "university of chicago press":[{"url":"http://press.uchicago.edu/","index":"checking.com"}],
 "university of illinois press":[{"url":"http://www.press.uillinois.edu/","index":"checking.com"}],
 "walter de gruyter":[{"url":"http://www.degruyter.com/","index":"checking.com"}],
-"wiley-blackwell":[{"url":"http://www.wiley.com/wiley-blackwell","index":"checking.com"}],
-"wiley-liss":[{"url":"http://www.wiley.com/","index":"checking.com"}],
+
+"wiley online library":[{"url":"http://onlinelibrary.wiley.com/","index":"checking.com"}],
 "wolters kluwer":[{"url":"http://www.wolterskluwer.com/","index":"checking.com"}],
 "world scientific":[{"url":"http://www.worldscientific.com/","index":"checking.com"}]
 }

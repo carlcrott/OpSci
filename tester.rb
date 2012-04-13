@@ -5,14 +5,19 @@ require 'json'
 require 'net/http'
 
 
-#page = Mechanize.new.get 'http://www.elsevier.com/wps/product/cws_home/717248'
+rss_feeds = Mechanize.new.get('http://www.press.jhu.edu/journals/toc_feeds_rss.html').search('#textwell/.feeds_list').search('a')
 
-page = Mechanize.new.get 'http://www.wiley.com/WileyCDA/Section/id-351881.html'
+feed_hash = Hash.new
+for feed in rss_feeds
+  feed_hash[feed.text()] = feed.attributes["href"].text()
+end
 
-links = page.search('ul.subjects').search('a')
+
+p feed_hash.length
+
 
 #p links.search('//a[contains(@text,"ingentaConnect")]').count
-p links.count
+
 
 #for link in links
 #  p link.text()
