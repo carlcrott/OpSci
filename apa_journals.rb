@@ -20,28 +20,33 @@ def main()
   page = agent.get("http://www.apa.org/rss/index.aspx")
   tds = page.search('table').search('td')
 
-  final = []
+  topics_list = []
 
   for td in tds 
     one = td.search('a')[0]
     two = td.search('a')[1]
 
     if td.search('a').count == 2 # normally indexed journals
-      link = 
       link = "http://www.apa.org#{one.attributes["href"].text()}"
       name = one.text()
       rss = two.attributes["href"].text()
       abbrev = rss.split("/")[-1][0..2]
       
-      temp = [
+
+      temp = {
         "url"=> link,
         "rss"=> rss,
         "index"=>"http://content.apa.org/journals/#{abbrev}"
-      ]
+      }
 
-      unf = {"#{name}"=>temp}
-      p unf
-      final << unf
+      puts temp
+
+      topics_list <<  { 
+        "name" => name, 
+        "url" => temp['url'], 
+        "rss" => temp['rss'], 
+        "index" => temp['index'] 
+      }
 
 
 
@@ -77,34 +82,49 @@ def main()
         # once every item is accounted for, export it and clear for the next
 #        unless [name, link, rss].any?(&:nil?)
         if (name != nil) && (link != nil) && (rss != nil)
-          temp = [
+          temp = {
             "url"=> link,
             "rss"=> rss,
             "index"=>"http://content.apa.org/journals/#{abbrev}"
-          ]
-          unf = {"#{name}"=>temp}
-          final << unf
+          }
+
+          topics_list <<  { 
+            "name" => name, 
+            "url" => temp['url'], 
+            "rss" => temp['rss'], 
+            "index" => temp['index'] 
+          }
           # save entry
           link,name,rss,temp = nil,nil,nil,[]
         end
       end
+
+
+
     else
       puts "wtf"
     end 
   end
 
-  for line in final
-#    raise "\nUNEXPECTED:\nItem 1 should not contain 'http://' or '.rss':\n#{line}" unless ((line[0].include? 'http://') == false) && ((line[0].include? '.rss') == false)
-    raise "\nUNEXPECTED:\nItem 2 does not contain 'http://':\n#{line}" unless line[1][0..6] == 'http://'
-    raise "\nUNEXPECTED:\nItem 3 does not end in '.rss':\n#{line}" unless line[2][-4..-1] == '.rss'
-  end
+  final = []
 
+  for t in topics_list
+#    build_json(t)
+    journal_entry = verify_data(t)
+    final << journal_entry
+  end
 
   puts "VALID JSON? #{final.to_json.valid_json?}"
   output_file = "#{REPO_NAME}_output.json"
 
   puts "Writing output to file: #{output_file}"
   File.open(output_file,'a').write(final.to_json)
+
+  puts "VERIFYING... All outputs should be quiet"
+  for entry in final
+    verify_data(entry, false)
+  end
+
 
 end
 

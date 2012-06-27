@@ -1,1 +1,80 @@
-[{"name":"Decision Analysis","url":"http://da.pubs.informs.org","rss":"idk","index":"http://www.informs.org/Pubs/DA/Past-Issues"},{"name":"Information Systems Research ","url":"http://da.pubs.informs.org","rss":"idk","index":"http://www.informs.org/Pubs/DA/Past-Issues"},{"name":"INFORMS Journal on Computing","url":"http://da.pubs.informs.org","rss":"idk","index":"http://www.informs.org/Pubs/DA/Past-Issues"},{"name":"Interfaces","url":"http://da.pubs.informs.org","rss":"idk","index":"http://www.informs.org/Pubs/DA/Past-Issues"},{"name":"Management Science","url":"http://da.pubs.informs.org","rss":"idk","index":"http://www.informs.org/Pubs/DA/Past-Issues"},{"name":"Manufacturing & Service Operations Management (M&SOM)","url":"http://da.pubs.informs.org","rss":"idk","index":"http://www.informs.org/Pubs/DA/Past-Issues"},{"name":"Marketing Science","url":"http://da.pubs.informs.org","rss":"idk","index":"http://www.informs.org/Pubs/DA/Past-Issues"},{"name":"Mathematics of Operations Research","url":"http://da.pubs.informs.org","rss":"idk","index":"http://www.informs.org/Pubs/DA/Past-Issues"},{"name":"Operations Research","url":"http://da.pubs.informs.org","rss":"idk","index":"http://www.informs.org/Pubs/DA/Past-Issues"},{"name":"Organization Science","url":"http://da.pubs.informs.org","rss":"idk","index":"http://www.informs.org/Pubs/DA/Past-Issues"},{"name":"Service Science","url":"http://da.pubs.informs.org","rss":"idk","index":"http://www.informs.org/Pubs/DA/Past-Issues"},{"name":"Transportation Science","url":"http://da.pubs.informs.org","rss":"idk","index":"http://www.informs.org/Pubs/DA/Past-Issues"},{"name":"INFORMS Transactions on Education","url":"http://da.pubs.informs.org","rss":"idk","index":"http://www.informs.org/Pubs/DA/Past-Issues"}]
+[
+    {
+        "name": "Decision Analysis",
+        "url": "http://da.pubs.informs.org",
+        "rss": "idk",
+        "index": "http://www.informs.org/Pubs/DA/Past-Issues"
+    },
+    {
+        "name": "Information Systems Research ",
+        "url": "http://da.pubs.informs.org",
+        "rss": "idk",
+        "index": "http://www.informs.org/Pubs/DA/Past-Issues"
+    },
+    {
+        "name": "INFORMS Journal on Computing",
+        "url": "http://da.pubs.informs.org",
+        "rss": "idk",
+        "index": "http://www.informs.org/Pubs/DA/Past-Issues"
+    },
+    {
+        "name": "Interfaces",
+        "url": "http://da.pubs.informs.org",
+        "rss": "idk",
+        "index": "http://www.informs.org/Pubs/DA/Past-Issues"
+    },
+    {
+        "name": "Management Science",
+        "url": "http://da.pubs.informs.org",
+        "rss": "idk",
+        "index": "http://www.informs.org/Pubs/DA/Past-Issues"
+    },
+    {
+        "name": "Manufacturing & Service Operations Management (M&SOM)",
+        "url": "http://da.pubs.informs.org",
+        "rss": "idk",
+        "index": "http://www.informs.org/Pubs/DA/Past-Issues"
+    },
+    {
+        "name": "Marketing Science",
+        "url": "http://da.pubs.informs.org",
+        "rss": "idk",
+        "index": "http://www.informs.org/Pubs/DA/Past-Issues"
+    },
+    {
+        "name": "Mathematics of Operations Research",
+        "url": "http://da.pubs.informs.org",
+        "rss": "idk",
+        "index": "http://www.informs.org/Pubs/DA/Past-Issues"
+    },
+    {
+        "name": "Operations Research",
+        "url": "http://da.pubs.informs.org",
+        "rss": "idk",
+        "index": "http://www.informs.org/Pubs/DA/Past-Issues"
+    },
+    {
+        "name": "Organization Science",
+        "url": "http://da.pubs.informs.org",
+        "rss": "idk",
+        "index": "http://www.informs.org/Pubs/DA/Past-Issues"
+    },
+    {
+        "name": "Service Science",
+        "url": "http://da.pubs.informs.org",
+        "rss": "idk",
+        "index": "http://www.informs.org/Pubs/DA/Past-Issues"
+    },
+    {
+        "name": "Transportation Science",
+        "url": "http://da.pubs.informs.org",
+        "rss": "idk",
+        "index": "http://www.informs.org/Pubs/DA/Past-Issues"
+    },
+    {
+        "name": "INFORMS Transactions on Education",
+        "url": "http://da.pubs.informs.org",
+        "rss": "idk",
+        "index": "http://www.informs.org/Pubs/DA/Past-Issues"
+    }
+]

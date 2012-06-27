@@ -47,7 +47,7 @@ end
 
 
 def main()
-  puts "Maxes out @ 25 sessions created in 5 minutes"
+  puts "This scraper should work ... but I maxed it out @ 25 sessions created in 5 minutes"
 # http://www.euppublishing.com/action/showPublications?display=bySubject&pubType=journal 
 # http://www.euppublishing.com/action/showPublications?activeId=&pubType=journal&category=&alphabetRange=&display=bySubject&startPage=1&pageSize=20&sortBy=
 # http://www.euppublishing.com/action/showPublications?activeId=&pubType=journal&category=&alphabetRange=&display=bySubject&startPage=2&pageSize=20&sortBy= 

@@ -2,18 +2,27 @@ require 'nokogiri'
 require 'mechanize'
 require 'net/http'
 require 'json'
+require 'open-uri'
 require 'net/http'
 
 
-rss_feeds = Mechanize.new.get('http://www.press.jhu.edu/journals/toc_feeds_rss.html').search('#textwell/.feeds_list').search('a')
 
-feed_hash = Hash.new
-for feed in rss_feeds
-  feed_hash[feed.text()] = feed.attributes["href"].text()
+def google(query)
+  agent = Mechanize.new
+  agent.get('http://google.com/') do |page|
+    search_result = page.form_with(:name => 'f') do |search|
+      search.q = "#{query}"
+    end.submit
+    return search_result
+  end
 end
 
+page = google('install itunes wine ubuntu 10.04')
 
-p feed_hash.length
+
+journal_url = page.search('#ires').search('li')[0].search('h3').search('a')[0].attributes['href'].text().split('&')[0].split('=')[1]
+
+p URI::decode(journal_url)
 
 
 #p links.search('//a[contains(@text,"ingentaConnect")]').count
@@ -90,4 +99,7 @@ p feed_hash.length
 #file = Mechanize.new.get(entry['rss'])
 #@noko = Nokogiri::XML(file.content)
 #p @noko.class # => Nokogiri::XML::Document
+
+#name = journal.search('li.submenuli/a')[0].text().gsub(/[\r\n\t]/,'')
+
 

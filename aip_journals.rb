@@ -18,18 +18,24 @@ def build_json(arr)
   full_array = []
   if arr[1].include? 'http://'
     arr[1][-1] == '/' ? arr[1].chop! : ""
-    temp = [
+    temp = {
       "url"=>"#{arr[1]}",
-      "rss"=>"#{arr[1]}features/rss_feeds",
-      "index"=>"#{arr[1]}browse"
-    ]
+      "rss"=>"#{arr[1]}/features/rss_feeds",
+      "index"=>"#{arr[1]}/browse"
+    }
   else
     p arr
   end
 
   arr[0] = arr[0].gsub(/[\n\t]/,"").strip.gsub(/\s+/," ")
 
-  full_array = {"#{arr[0]}"=>temp}
+  full_array = {
+    "name" => arr[0],
+    "url"=> temp['url'],
+    "rss"=> temp['rss'],
+    "index"=> temp['index']
+  }
+
   p full_array
   return full_array
 
@@ -58,7 +64,9 @@ def main()
   final = []
 
   for topic in topics_list
-    final << build_json(topic)
+    p topic
+    journal_entry = verify_data(build_json(topic))
+    final << journal_entry
   end
 
   puts "VALID JSON? #{final.to_json.valid_json?}"
@@ -66,6 +74,12 @@ def main()
 
   puts "Writing output to file: #{output_file}"
   File.open(output_file,'a').write(final.to_json)
+
+  puts "VERIFYING... All outputs should be quiet"
+  for entry in final
+    verify_data(entry, false)
+  end
+
 
 end
 

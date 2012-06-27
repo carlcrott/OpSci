@@ -1,303 +1,362 @@
 [
-    [
-        "American Psychologist",
-        "http://www.apa.org/pubs/journals/amp/index.aspx",
-        "http://content.apa.org/journals/amp.rss"
-    ],
-    [
-        "Journal of Family Psychology",
-        "http://www.apa.org/pubs/journals/fam/index.aspx",
-        "http://content.apa.org/journals/fam.rss"
-    ],
-    [
-        "Asian American Journal of Psychology",
-        "http://www.apa.org/pubs/journals/aap/index.aspx",
-        "http://content.apa.org/journals/aap.rss"
-    ],
-    [
-        "Journal of Neuroscience, Psychology, and Economics",
-        "http://www.apa.org/pubs/journals/npe/index.aspx",
-        "http://content.apa.org/journals/npe.rss"
-    ],
-    [
-        "Behavioral Neuroscience",
-        "http://www.apa.org/pubs/journals/bne/index.aspx",
-        "http://content.apa.org/journals/bne.rss"
-    ],
-    [
-        "Journal of Occupational Health Psychology",
-        "http://www.apa.org/pubs/journals/ocp/index.aspx",
-        "http://content.apa.org/journals/ocp.rss"
-    ],
-    [
-        "Canadian Journal of Behavioural Science",
-        "http://www.apa.org/pubs/journals/cbs/index.aspx",
-        "http://content.apa.org/journals/cbs.rss"
-    ],
-    [
-        "Journal of Personality and Social Psychology",
-        "http://www.apa.org/pubs/journals/psp/index.aspx",
-        "http://content.apa.org/journals/psp.rss"
-    ],
-    [
-        "Canadian Journal of Experimental Psychology",
-        "http://www.apa.org/pubs/journals/cep/index.aspx",
-        "http://content.apa.org/journals/cep.rss"
-    ],
-    [
-        "Journal of Psychotherapy Integration",
-        "http://www.apa.org/pubs/journals/int/index.aspx",
-        "http://content.apa.org/journals/int.rss"
-    ],
-    [
-        "Canadian Psychology",
-        "http://www.apa.org/pubs/journals/cap/index.aspx",
-        "http://content.apa.org/journals/cap.rss"
-    ],
-    [
-        "Journal of Theoretical and Philosophical Psychology",
-        "http://www.apa.org/pubs/journals/teo/index.aspx",
-        "http://content.apa.org/journals/teo.rss"
-    ],
-    [
-        "Consulting Psychology Journal: Practice and Research",
-        "http://www.apa.org/pubs/journals/cpb/index.aspx",
-        "http://content.apa.org/journals/cpb.rss"
-    ],
-    [
-        "Neuropsychology",
-        "http://www.apa.org/pubs/journals/neu/index.aspx",
-        "http://content.apa.org/journals/neu.rss"
-    ],
-    [
-        "Cultural Diversity and Ethnic Minority Psychology",
-        "http://www.apa.org/pubs/journals/cdp/index.aspx",
-        "http://content.apa.org/journals/cdp.rss"
-    ],
-    [
-        "Personality Disorders: Theory, Research, and Treatment",
-        "http://www.apa.org/pubs/journals/per/index.aspx",
-        "http://content.apa.org/journals/per.rss"
-    ],
-    [
-        "Developmental Psychology",
-        "http://www.apa.org/pubs/journals/dev/index.aspx",
-        "http://content.apa.org/journals/dev.rss"
-    ],
-    [
-        "Professional Psychology: Research and Practice",
-        "http://www.apa.org/pubs/journals/pro/index.aspx",
-        "http://content.apa.org/journals/pro.rss"
-    ],
-    [
-        "Dreaming",
-        "http://www.apa.org/pubs/journals/drm/index.aspx",
-        "http://content.apa.org/journals/drm.rss"
-    ],
-    [
-        "Psychoanalytic Psychology",
-        "http://www.apa.org/pubs/journals/pap/index.aspx",
-        "http://content.apa.org/journals/pap.rss"
-    ],
-    [
-        "Emotion",
-        "http://www.apa.org/pubs/journals/emo/index.aspx",
-        "http://content.apa.org/journals/emo.rss"
-    ],
-    [
-        "Psychological Assessment",
-        "http://www.apa.org/pubs/journals/pas/index.aspx",
-        "http://content.apa.org/journals/pas.rss"
-    ],
-    [
-        "Experimental & Clinical Psychopharmacology",
-        "http://www.apa.org/pubs/journals/pha/index.aspx",
-        "http://content.apa.org/journals/pha.rss"
-    ],
-    [
-        "Psychological Bulletin",
-        "http://www.apa.org/pubs/journals/bul/index.aspx",
-        "http://content.apa.org/journals/bul.rss"
-    ],
-    [
-        "Families, Systems, & Health",
-        "http://www.apa.org/pubs/journals/fsh/index.aspx",
-        "http://content.apa.org/journals/fsh.rss"
-    ],
-    [
-        "Psychological Methods",
-        "http://www.apa.org/pubs/journals/met/index.aspx",
-        "http://content.apa.org/journals/met.rss"
-    ],
-    [
-        "Group Dynamics: Theory, Research, and Practice",
-        "http://www.apa.org/pubs/journals/gdn/index.aspx",
-        "http://content.apa.org/journals/gdn.rss"
-    ],
-    [
-        "Psychological Review",
-        "http://www.apa.org/pubs/journals/rev/index.aspx",
-        "http://content.apa.org/journals/rev.rss"
-    ],
-    [
-        "Health Psychology",
-        "http://www.apa.org/pubs/journals/hea/index.aspx",
-        "http://content.apa.org/journals/hea.rss"
-    ],
-    [
-        "Psychological Services",
-        "http://www.apa.org/pubs/journals/ser/index.aspx",
-        "http://content.apa.org/journals/ser.rss"
-    ],
-    [
-        "History of Psychology",
-        "http://www.apa.org/pubs/journals/hop/index.aspx",
-        "http://content.apa.org/journals/hop.rss"
-    ],
-    [
-        "Psychological Trauma: Theory, Research, Practice, and Policy",
-        "http://www.apa.org/pubs/journals/tra/index.aspx",
-        "http://content.apa.org/journals/tra.rss"
-    ],
-    [
-        "International Journal of Play Therapy",
-        "http://www.apa.org/pubs/journals/pla/index.aspx",
-        "http://content.apa.org/journals/pla.rss"
-    ],
-    [
-        "Psychology and Aging",
-        "http://www.apa.org/pubs/journals/pag/index.aspx",
-        "http://content.apa.org/journals/pag.rss"
-    ],
-    [
-        "International Journal of Stress Management",
-        "http://www.apa.org/pubs/journals/str/index.aspx",
-        "http://content.apa.org/journals/str.rss"
-    ],
-    [
-        "Psychology of Addictive Behaviors",
-        "http://www.apa.org/pubs/journals/adb/index.aspx",
-        "http://content.apa.org/journals/adb.rss"
-    ],
-    [
-        "Journal of Abnormal Psychology",
-        "http://www.apa.org/pubs/journals/abn/index.aspx",
-        "http://content.apa.org/journals/abn.rss"
-    ],
-    [
-        "Psychology of Aesthetics, Creativity and the Arts",
-        "http://www.apa.org/pubs/journals/aca/index.aspx",
-        "http://content.apa.org/journals/aca.rss"
-    ],
-    [
-        "Journal of Applied Psychology",
-        "http://www.apa.org/pubs/journals/apl/index.aspx",
-        "http://content.apa.org/journals/apl.rss"
-    ],
-    [
-        "Psychology of Men and Masculinity",
-        "http://www.apa.org/pubs/journals/men/index.aspx",
-        "http://content.apa.org/journals/men.rss"
-    ],
-    [
-        "Journal of Comparative Psychology",
-        "http://www.apa.org/pubs/journals/com/index.aspx",
-        "http://content.apa.org/journals/com.rss"
-    ],
-    [
-        "Psychology of Religion and Spirituality",
-        "http://www.apa.org/pubs/journals/rel/index.aspx",
-        "http://content.apa.org/journals/rel.rss"
-    ],
-    [
-        "Journal of Consulting & Clinical Psychology",
-        "http://www.apa.org/pubs/journals/ccp/index.aspx",
-        "http://content.apa.org/journals/ccp.rss"
-    ],
-    [
-        "Psychology of Violence",
-        "http://www.apa.org/pubs/journals/vio/index.aspx",
-        "http://content.apa.org/journals/vio.rss"
-    ],
-    [
-        "Journal of Counseling Psychology",
-        "http://www.apa.org/pubs/journals/cou/index.aspx",
-        "http://content.apa.org/journals/cou.rss"
-    ],
-    [
-        "Psychology, Public Policy, and Law",
-        "http://www.apa.org/pubs/journals/law/index.aspx",
-        "http://content.apa.org/journals/law.rss"
-    ],
-    [
-        "Journal of Diversity in Higher Education",
-        "http://www.apa.org/pubs/journals/dhe/index.aspx",
-        "http://content.apa.org/journals/dhe.rss"
-    ],
-    [
-        "Psychotherapy",
-        "http://www.apa.org/pubs/journals/pst/index.aspx",
-        "http://content.apa.org/journals/pst.rss"
-    ],
-    [
-        "Journal of Educational Psychology",
-        "http://www.apa.org/pubs/journals/edu/index.aspx",
-        "http://content.apa.org/journals/edu.rss"
-    ],
-    [
-        "Rehabilitation Psychology",
-        "http://www.apa.org/pubs/journals/rep/index.aspx",
-        "http://content.apa.org/journals/rep.rss"
-    ],
-    [
-        "Journal of Experimental Psychology: Animal Behavior Processes",
-        "http://www.apa.org/pubs/journals/xan/index.aspx",
-        "http://content.apa.org/journals/xan.rss"
-    ],
-    [
-        "Review of General Psychology",
-        "http://www.apa.org/pubs/journals/gpr/index.aspx",
-        "http://content.apa.org/journals/gpr.rss"
-    ],
-    [
-        "Journal of Experimental Psychology: Applied",
-        "http://www.apa.org/pubs/journals/xap/index.aspx",
-        "http://content.apa.org/journals/xap.rss"
-    ],
-    [
-        "Rorschachiana",
-        "http://www.hogrefe.com/index.php?mod=journals&action=1&site=rorschach",
-        "http://content.apa.org/journals/ror.rss"
-    ],
-    [
-        "Journal of Experimental Psychology: General",
-        "http://www.apa.org/pubs/journals/xge/index.aspx",
-        "http://content.apa.org/journals/xge.rss"
-    ],
-    [
-        "School Psychology Quarterly",
-        "http://www.apa.org/pubs/journals/spq/index.aspx",
-        "http://content.apa.org/journals/spq.rss"
-    ],
-    [
-        "Journal of Experimental Psychology: Human Perception and Performance",
-        "http://www.apa.org/pubs/journals/xhp/index.aspx",
-        "http://content.apa.org/journals/xhp.rss"
-    ],
-    [
-        "Social Psychology",
-        "http://www.hogrefe.com/index.php?mod=journals&action=1&site=sp",
-        "http://content.apa.org/journals/zsp.rss"
-    ],
-    [
-        "Journal of Experimental Psychology: Learning, Memory, and Cognition",
-        "http://www.apa.org/pubs/journals/xlm/index.aspx",
-        "http://content.apa.org/journals/xlm.rss"
-    ],
-    [
-        "Training and Education in Professional Psychology",
-        "http://www.apa.org/pubs/journals/tep/index.aspx",
-        "http://content.apa.org/journals/tep.rss"
-    ]
+    {
+        "name": "American Psychologist",
+        "url": "http://www.apa.org/pubs/journals/amp/index.aspx",
+        "rss": "http://content.apa.org/journals/amp.rss",
+        "index": "http://content.apa.org/journals/amp"
+    },
+    {
+        "name": "Journal of Family Psychology",
+        "url": "http://www.apa.org/pubs/journals/fam/index.aspx",
+        "rss": "http://content.apa.org/journals/fam.rss",
+        "index": "http://content.apa.org/journals/fam"
+    },
+    {
+        "name": "Asian American Journal of Psychology",
+        "url": "http://www.apa.org/pubs/journals/aap/index.aspx",
+        "rss": "http://content.apa.org/journals/aap.rss",
+        "index": "http://content.apa.org/journals/aap"
+    },
+    {
+        "name": "Journal of Neuroscience, Psychology, and Economics",
+        "url": "http://www.apa.org/pubs/journals/npe/index.aspx",
+        "rss": "http://content.apa.org/journals/npe.rss",
+        "index": "http://content.apa.org/journals/npe"
+    },
+    {
+        "name": "Behavioral Neuroscience",
+        "url": "http://www.apa.org/pubs/journals/bne/index.aspx",
+        "rss": "http://content.apa.org/journals/bne.rss",
+        "index": "http://content.apa.org/journals/bne"
+    },
+    {
+        "name": "Journal of Occupational Health Psychology",
+        "url": "http://www.apa.org/pubs/journals/ocp/index.aspx",
+        "rss": "http://content.apa.org/journals/ocp.rss",
+        "index": "http://content.apa.org/journals/ocp"
+    },
+    {
+        "name": "Canadian Journal of Behavioural Science",
+        "url": "http://www.apa.org/pubs/journals/cbs/index.aspx",
+        "rss": "http://content.apa.org/journals/cbs.rss",
+        "index": "http://content.apa.org/journals/cbs"
+    },
+    {
+        "name": "Journal of Personality and Social Psychology",
+        "url": "http://www.apa.org/pubs/journals/psp/index.aspx",
+        "rss": "http://content.apa.org/journals/psp.rss",
+        "index": "http://content.apa.org/journals/psp"
+    },
+    {
+        "name": "Canadian Journal of Experimental Psychology",
+        "url": "http://www.apa.org/pubs/journals/cep/index.aspx",
+        "rss": "http://content.apa.org/journals/cep.rss",
+        "index": "http://content.apa.org/journals/cep"
+    },
+    {
+        "name": "Journal of Psychotherapy Integration",
+        "url": "http://www.apa.org/pubs/journals/int/index.aspx",
+        "rss": "http://content.apa.org/journals/int.rss",
+        "index": "http://content.apa.org/journals/int"
+    },
+    {
+        "name": "Canadian Psychology",
+        "url": "http://www.apa.org/pubs/journals/cap/index.aspx",
+        "rss": "http://content.apa.org/journals/cap.rss",
+        "index": "http://content.apa.org/journals/cap"
+    },
+    {
+        "name": "Journal of Theoretical and Philosophical Psychology",
+        "url": "http://www.apa.org/pubs/journals/teo/index.aspx",
+        "rss": "http://content.apa.org/journals/teo.rss",
+        "index": "http://content.apa.org/journals/teo"
+    },
+    {
+        "name": "Consulting Psychology Journal: Practice and Research",
+        "url": "http://www.apa.org/pubs/journals/cpb/index.aspx",
+        "rss": "http://content.apa.org/journals/cpb.rss",
+        "index": "http://content.apa.org/journals/cpb"
+    },
+    {
+        "name": "Neuropsychology",
+        "url": "http://www.apa.org/pubs/journals/neu/index.aspx",
+        "rss": "http://content.apa.org/journals/neu.rss",
+        "index": "http://content.apa.org/journals/neu"
+    },
+    {
+        "name": "Cultural Diversity and Ethnic Minority Psychology",
+        "url": "http://www.apa.org/pubs/journals/cdp/index.aspx",
+        "rss": "http://content.apa.org/journals/cdp.rss",
+        "index": "http://content.apa.org/journals/cdp"
+    },
+    {
+        "name": "Personality Disorders: Theory, Research, and Treatment",
+        "url": "http://www.apa.org/pubs/journals/per/index.aspx",
+        "rss": "http://content.apa.org/journals/per.rss",
+        "index": "http://content.apa.org/journals/per"
+    },
+    {
+        "name": "Developmental Psychology",
+        "url": "http://www.apa.org/pubs/journals/dev/index.aspx",
+        "rss": "http://content.apa.org/journals/dev.rss",
+        "index": "http://content.apa.org/journals/dev"
+    },
+    {
+        "name": "Professional Psychology: Research and Practice",
+        "url": "http://www.apa.org/pubs/journals/pro/index.aspx",
+        "rss": "http://content.apa.org/journals/pro.rss",
+        "index": "http://content.apa.org/journals/pro"
+    },
+    {
+        "name": "Dreaming",
+        "url": "http://www.apa.org/pubs/journals/drm/index.aspx",
+        "rss": "http://content.apa.org/journals/drm.rss",
+        "index": "http://content.apa.org/journals/drm"
+    },
+    {
+        "name": "Psychoanalytic Psychology",
+        "url": "http://www.apa.org/pubs/journals/pap/index.aspx",
+        "rss": "http://content.apa.org/journals/pap.rss",
+        "index": "http://content.apa.org/journals/pap"
+    },
+    {
+        "name": "Emotion",
+        "url": "http://www.apa.org/pubs/journals/emo/index.aspx",
+        "rss": "http://content.apa.org/journals/emo.rss",
+        "index": "http://content.apa.org/journals/emo"
+    },
+    {
+        "name": "Psychological Assessment",
+        "url": "http://www.apa.org/pubs/journals/pas/index.aspx",
+        "rss": "http://content.apa.org/journals/pas.rss",
+        "index": "http://content.apa.org/journals/pas"
+    },
+    {
+        "name": "Experimental & Clinical Psychopharmacology",
+        "url": "http://www.apa.org/pubs/journals/pha/index.aspx",
+        "rss": "http://content.apa.org/journals/pha.rss",
+        "index": "http://content.apa.org/journals/pha"
+    },
+    {
+        "name": "Psychological Bulletin",
+        "url": "http://www.apa.org/pubs/journals/bul/index.aspx",
+        "rss": "http://content.apa.org/journals/bul.rss",
+        "index": "http://content.apa.org/journals/bul"
+    },
+    {
+        "name": "Families, Systems, & Health",
+        "url": "http://www.apa.org/pubs/journals/fsh/index.aspx",
+        "rss": "http://content.apa.org/journals/fsh.rss",
+        "index": "http://content.apa.org/journals/fsh"
+    },
+    {
+        "name": "Psychological Methods",
+        "url": "http://www.apa.org/pubs/journals/met/index.aspx",
+        "rss": "http://content.apa.org/journals/met.rss",
+        "index": "http://content.apa.org/journals/met"
+    },
+    {
+        "name": "Group Dynamics: Theory, Research, and Practice",
+        "url": "http://www.apa.org/pubs/journals/gdn/index.aspx",
+        "rss": "http://content.apa.org/journals/gdn.rss",
+        "index": "http://content.apa.org/journals/gdn"
+    },
+    {
+        "name": "Psychological Review",
+        "url": "http://www.apa.org/pubs/journals/rev/index.aspx",
+        "rss": "http://content.apa.org/journals/rev.rss",
+        "index": "http://content.apa.org/journals/rev"
+    },
+    {
+        "name": "Health Psychology",
+        "url": "http://www.apa.org/pubs/journals/hea/index.aspx",
+        "rss": "http://content.apa.org/journals/hea.rss",
+        "index": "http://content.apa.org/journals/hea"
+    },
+    {
+        "name": "Psychological Services",
+        "url": "http://www.apa.org/pubs/journals/ser/index.aspx",
+        "rss": "http://content.apa.org/journals/ser.rss",
+        "index": "http://content.apa.org/journals/ser"
+    },
+    {
+        "name": "History of Psychology",
+        "url": "http://www.apa.org/pubs/journals/hop/index.aspx",
+        "rss": "http://content.apa.org/journals/hop.rss",
+        "index": "http://content.apa.org/journals/hop"
+    },
+    {
+        "name": "Psychological Trauma: Theory, Research, Practice, and Policy",
+        "url": "http://www.apa.org/pubs/journals/tra/index.aspx",
+        "rss": "http://content.apa.org/journals/tra.rss",
+        "index": "http://content.apa.org/journals/tra"
+    },
+    {
+        "name": "International Journal of Play Therapy",
+        "url": "http://www.apa.org/pubs/journals/pla/index.aspx",
+        "rss": "http://content.apa.org/journals/pla.rss",
+        "index": "http://content.apa.org/journals/pla"
+    },
+    {
+        "name": "Psychology and Aging",
+        "url": "http://www.apa.org/pubs/journals/pag/index.aspx",
+        "rss": "http://content.apa.org/journals/pag.rss",
+        "index": "http://content.apa.org/journals/pag"
+    },
+    {
+        "name": "International Journal of Stress Management",
+        "url": "http://www.apa.org/pubs/journals/str/index.aspx",
+        "rss": "http://content.apa.org/journals/str.rss",
+        "index": "http://content.apa.org/journals/str"
+    },
+    {
+        "name": "Psychology of Addictive Behaviors",
+        "url": "http://www.apa.org/pubs/journals/adb/index.aspx",
+        "rss": "http://content.apa.org/journals/adb.rss",
+        "index": "http://content.apa.org/journals/adb"
+    },
+    {
+        "name": "Journal of Abnormal Psychology",
+        "url": "http://www.apa.org/pubs/journals/abn/index.aspx",
+        "rss": "http://content.apa.org/journals/abn.rss",
+        "index": "http://content.apa.org/journals/abn"
+    },
+    {
+        "name": "Psychology of Aesthetics, Creativity and the Arts",
+        "url": "http://www.apa.org/pubs/journals/aca/index.aspx",
+        "rss": "http://content.apa.org/journals/aca.rss",
+        "index": "http://content.apa.org/journals/aca"
+    },
+    {
+        "name": "Journal of Applied Psychology",
+        "url": "http://www.apa.org/pubs/journals/apl/index.aspx",
+        "rss": "http://content.apa.org/journals/apl.rss",
+        "index": "http://content.apa.org/journals/apl"
+    },
+    {
+        "name": "Psychology of Men and Masculinity",
+        "url": "http://www.apa.org/pubs/journals/men/index.aspx",
+        "rss": "http://content.apa.org/journals/men.rss",
+        "index": "http://content.apa.org/journals/men"
+    },
+    {
+        "name": "Journal of Comparative Psychology",
+        "url": "http://www.apa.org/pubs/journals/com/index.aspx",
+        "rss": "http://content.apa.org/journals/com.rss",
+        "index": "http://content.apa.org/journals/com"
+    },
+    {
+        "name": "Psychology of Religion and Spirituality",
+        "url": "http://www.apa.org/pubs/journals/rel/index.aspx",
+        "rss": "http://content.apa.org/journals/rel.rss",
+        "index": "http://content.apa.org/journals/rel"
+    },
+    {
+        "name": "Journal of Consulting & Clinical Psychology",
+        "url": "http://www.apa.org/pubs/journals/ccp/index.aspx",
+        "rss": "http://content.apa.org/journals/ccp.rss",
+        "index": "http://content.apa.org/journals/ccp"
+    },
+    {
+        "name": "Psychology of Violence",
+        "url": "http://www.apa.org/pubs/journals/vio/index.aspx",
+        "rss": "http://content.apa.org/journals/vio.rss",
+        "index": "http://content.apa.org/journals/vio"
+    },
+    {
+        "name": "Journal of Counseling Psychology",
+        "url": "http://www.apa.org/pubs/journals/cou/index.aspx",
+        "rss": "http://content.apa.org/journals/cou.rss",
+        "index": "http://content.apa.org/journals/cou"
+    },
+    {
+        "name": "Psychology, Public Policy, and Law",
+        "url": "http://www.apa.org/pubs/journals/law/index.aspx",
+        "rss": "http://content.apa.org/journals/law.rss",
+        "index": "http://content.apa.org/journals/law"
+    },
+    {
+        "name": "Journal of Diversity in Higher Education",
+        "url": "http://www.apa.org/pubs/journals/dhe/index.aspx",
+        "rss": "http://content.apa.org/journals/dhe.rss",
+        "index": "http://content.apa.org/journals/dhe"
+    },
+    {
+        "name": "Psychotherapy",
+        "url": "http://www.apa.org/pubs/journals/pst/index.aspx",
+        "rss": "http://content.apa.org/journals/pst.rss",
+        "index": "http://content.apa.org/journals/pst"
+    },
+    {
+        "name": "Journal of Educational Psychology",
+        "url": "http://www.apa.org/pubs/journals/edu/index.aspx",
+        "rss": "http://content.apa.org/journals/edu.rss",
+        "index": "http://content.apa.org/journals/edu"
+    },
+    {
+        "name": "Rehabilitation Psychology",
+        "url": "http://www.apa.org/pubs/journals/rep/index.aspx",
+        "rss": "http://content.apa.org/journals/rep.rss",
+        "index": "http://content.apa.org/journals/rep"
+    },
+    {
+        "name": "Journal of Experimental Psychology: Animal Behavior Processes",
+        "url": "http://www.apa.org/pubs/journals/xan/index.aspx",
+        "rss": "http://content.apa.org/journals/xan.rss",
+        "index": "http://content.apa.org/journals/xan"
+    },
+    {
+        "name": "Review of General Psychology",
+        "url": "http://www.apa.org/pubs/journals/gpr/index.aspx",
+        "rss": "http://content.apa.org/journals/gpr.rss",
+        "index": "http://content.apa.org/journals/gpr"
+    },
+    {
+        "name": "Journal of Experimental Psychology: Applied",
+        "url": "http://www.apa.org/pubs/journals/xap/index.aspx",
+        "rss": "http://content.apa.org/journals/xap.rss",
+        "index": "http://content.apa.org/journals/xap"
+    },
+    {
+        "name": "Rorschachiana",
+        "url": "http://www.hogrefe.com/index.php?mod=journals&action=1&site=rorschach",
+        "rss": "http://content.apa.org/journals/ror.rss",
+        "index": "http://content.apa.org/journals/ror"
+    },
+    {
+        "name": "Journal of Experimental Psychology: General",
+        "url": "http://www.apa.org/pubs/journals/xge/index.aspx",
+        "rss": "http://content.apa.org/journals/xge.rss",
+        "index": "http://content.apa.org/journals/xge"
+    },
+    {
+        "name": "School Psychology Quarterly",
+        "url": "http://www.apa.org/pubs/journals/spq/index.aspx",
+        "rss": "http://content.apa.org/journals/spq.rss",
+        "index": "http://content.apa.org/journals/spq"
+    },
+    {
+        "name": "Journal of Experimental Psychology: Human Perception and Performance",
+        "url": "http://www.apa.org/pubs/journals/xhp/index.aspx",
+        "rss": "http://content.apa.org/journals/xhp.rss",
+        "index": "http://content.apa.org/journals/xhp"
+    },
+    {
+        "name": "Social Psychology",
+        "url": "http://www.hogrefe.com/index.php?mod=journals&action=1&site=sp",
+        "rss": "http://content.apa.org/journals/zsp.rss",
+        "index": "http://content.apa.org/journals/zsp"
+    },
+    {
+        "name": "Journal of Experimental Psychology: Learning, Memory, and Cognition",
+        "url": "http://www.apa.org/pubs/journals/xlm/index.aspx",
+        "rss": "http://content.apa.org/journals/xlm.rss",
+        "index": "http://content.apa.org/journals/xlm"
+    },
+    {
+        "name": "Training and Education in Professional Psychology",
+        "url": "http://www.apa.org/pubs/journals/tep/index.aspx",
+        "rss": "http://content.apa.org/journals/tep.rss",
+        "index": "http://content.apa.org/journals/tep"
+    }
 ]
-[["American Psychologist","http://www.apa.org/pubs/journals/amp/index.aspx","http://content.apa.org/journals/amp.rss"],["Journal of Family Psychology","http://www.apa.org/pubs/journals/fam/index.aspx","http://content.apa.org/journals/fam.rss"],["Asian American Journal of Psychology","http://www.apa.org/pubs/journals/aap/index.aspx","http://content.apa.org/journals/aap.rss"],["Journal of Neuroscience, Psychology, and Economics","http://www.apa.org/pubs/journals/npe/index.aspx","http://content.apa.org/journals/npe.rss"],["Behavioral Neuroscience","http://www.apa.org/pubs/journals/bne/index.aspx","http://content.apa.org/journals/bne.rss"],["Journal of Occupational Health Psychology","http://www.apa.org/pubs/journals/ocp/index.aspx","http://content.apa.org/journals/ocp.rss"],["Canadian Journal of Behavioural Science","http://www.apa.org/pubs/journals/cbs/index.aspx","http://content.apa.org/journals/cbs.rss"],["Journal of Personality and Social Psychology","http://www.apa.org/pubs/journals/psp/index.aspx","http://content.apa.org/journals/psp.rss"],["Canadian Journal of Experimental Psychology","http://www.apa.org/pubs/journals/cep/index.aspx","http://content.apa.org/journals/cep.rss"],["Journal of Psychotherapy Integration","http://www.apa.org/pubs/journals/int/index.aspx","http://content.apa.org/journals/int.rss"],["Canadian Psychology","http://www.apa.org/pubs/journals/cap/index.aspx","http://content.apa.org/journals/cap.rss"],["Journal of Theoretical and Philosophical Psychology","http://www.apa.org/pubs/journals/teo/index.aspx","http://content.apa.org/journals/teo.rss"],["Consulting Psychology Journal: Practice and Research","http://www.apa.org/pubs/journals/cpb/index.aspx","http://content.apa.org/journals/cpb.rss"],["Neuropsychology","http://www.apa.org/pubs/journals/neu/index.aspx","http://content.apa.org/journals/neu.rss"],["Cultural Diversity and Ethnic Minority Psychology","http://www.apa.org/pubs/journals/cdp/index.aspx","http://content.apa.org/journals/cdp.rss"],["Personality Disorders: Theory, Research, and Treatment","http://www.apa.org/pubs/journals/per/index.aspx","http://content.apa.org/journals/per.rss"],["Developmental Psychology","http://www.apa.org/pubs/journals/dev/index.aspx","http://content.apa.org/journals/dev.rss"],["Professional Psychology: Research and Practice","http://www.apa.org/pubs/journals/pro/index.aspx","http://content.apa.org/journals/pro.rss"],["Dreaming","http://www.apa.org/pubs/journals/drm/index.aspx","http://content.apa.org/journals/drm.rss"],["Psychoanalytic Psychology","http://www.apa.org/pubs/journals/pap/index.aspx","http://content.apa.org/journals/pap.rss"],["Emotion","http://www.apa.org/pubs/journals/emo/index.aspx","http://content.apa.org/journals/emo.rss"],["Psychological Assessment","http://www.apa.org/pubs/journals/pas/index.aspx","http://content.apa.org/journals/pas.rss"],["Experimental & Clinical Psychopharmacology","http://www.apa.org/pubs/journals/pha/index.aspx","http://content.apa.org/journals/pha.rss"],["Psychological Bulletin","http://www.apa.org/pubs/journals/bul/index.aspx","http://content.apa.org/journals/bul.rss"],["Families, Systems, & Health","http://www.apa.org/pubs/journals/fsh/index.aspx","http://content.apa.org/journals/fsh.rss"],["Psychological Methods","http://www.apa.org/pubs/journals/met/index.aspx","http://content.apa.org/journals/met.rss"],["Group Dynamics: Theory, Research, and Practice","http://www.apa.org/pubs/journals/gdn/index.aspx","http://content.apa.org/journals/gdn.rss"],["Psychological Review","http://www.apa.org/pubs/journals/rev/index.aspx","http://content.apa.org/journals/rev.rss"],["Health Psychology","http://www.apa.org/pubs/journals/hea/index.aspx","http://content.apa.org/journals/hea.rss"],["Psychological Services","http://www.apa.org/pubs/journals/ser/index.aspx","http://content.apa.org/journals/ser.rss"],["History of Psychology","http://www.apa.org/pubs/journals/hop/index.aspx","http://content.apa.org/journals/hop.rss"],["Psychological Trauma: Theory, Research, Practice, and Policy","http://www.apa.org/pubs/journals/tra/index.aspx","http://content.apa.org/journals/tra.rss"],["International Journal of Play Therapy","http://www.apa.org/pubs/journals/pla/index.aspx","http://content.apa.org/journals/pla.rss"],["Psychology and Aging","http://www.apa.org/pubs/journals/pag/index.aspx","http://content.apa.org/journals/pag.rss"],["International Journal of Stress Management","http://www.apa.org/pubs/journals/str/index.aspx","http://content.apa.org/journals/str.rss"],["Psychology of Addictive Behaviors","http://www.apa.org/pubs/journals/adb/index.aspx","http://content.apa.org/journals/adb.rss"],["Journal of Abnormal Psychology","http://www.apa.org/pubs/journals/abn/index.aspx","http://content.apa.org/journals/abn.rss"],["Psychology of Aesthetics, Creativity and the Arts","http://www.apa.org/pubs/journals/aca/index.aspx","http://content.apa.org/journals/aca.rss"],["Journal of Applied Psychology","http://www.apa.org/pubs/journals/apl/index.aspx","http://content.apa.org/journals/apl.rss"],["Psychology of Men and Masculinity","http://www.apa.org/pubs/journals/men/index.aspx","http://content.apa.org/journals/men.rss"],["Journal of Comparative Psychology","http://www.apa.org/pubs/journals/com/index.aspx","http://content.apa.org/journals/com.rss"],["Psychology of Religion and Spirituality","http://www.apa.org/pubs/journals/rel/index.aspx","http://content.apa.org/journals/rel.rss"],["Journal of Consulting & Clinical Psychology","http://www.apa.org/pubs/journals/ccp/index.aspx","http://content.apa.org/journals/ccp.rss"],["Psychology of Violence","http://www.apa.org/pubs/journals/vio/index.aspx","http://content.apa.org/journals/vio.rss"],["Journal of Counseling Psychology","http://www.apa.org/pubs/journals/cou/index.aspx","http://content.apa.org/journals/cou.rss"],["Psychology, Public Policy, and Law","http://www.apa.org/pubs/journals/law/index.aspx","http://content.apa.org/journals/law.rss"],["Journal of Diversity in Higher Education","http://www.apa.org/pubs/journals/dhe/index.aspx","http://content.apa.org/journals/dhe.rss"],["Psychotherapy","http://www.apa.org/pubs/journals/pst/index.aspx","http://content.apa.org/journals/pst.rss"],["Journal of Educational Psychology","http://www.apa.org/pubs/journals/edu/index.aspx","http://content.apa.org/journals/edu.rss"],["Rehabilitation Psychology","http://www.apa.org/pubs/journals/rep/index.aspx","http://content.apa.org/journals/rep.rss"],["Journal of Experimental Psychology: Animal Behavior Processes","http://www.apa.org/pubs/journals/xan/index.aspx","http://content.apa.org/journals/xan.rss"],["Review of General Psychology","http://www.apa.org/pubs/journals/gpr/index.aspx","http://content.apa.org/journals/gpr.rss"],["Journal of Experimental Psychology: Applied","http://www.apa.org/pubs/journals/xap/index.aspx","http://content.apa.org/journals/xap.rss"],["Rorschachiana","http://www.hogrefe.com/index.php?mod=journals&action=1&site=rorschach","http://content.apa.org/journals/ror.rss"],["Journal of Experimental Psychology: General","http://www.apa.org/pubs/journals/xge/index.aspx","http://content.apa.org/journals/xge.rss"],["School Psychology Quarterly","http://www.apa.org/pubs/journals/spq/index.aspx","http://content.apa.org/journals/spq.rss"],["Journal of Experimental Psychology: Human Perception and Performance","http://www.apa.org/pubs/journals/xhp/index.aspx","http://content.apa.org/journals/xhp.rss"],["Social Psychology","http://www.hogrefe.com/index.php?mod=journals&action=1&site=sp","http://content.apa.org/journals/zsp.rss"],["Journal of Experimental Psychology: Learning, Memory, and Cognition","http://www.apa.org/pubs/journals/xlm/index.aspx","http://content.apa.org/journals/xlm.rss"],["Training and Education in Professional Psychology","http://www.apa.org/pubs/journals/tep/index.aspx","http://content.apa.org/journals/tep.rss"]]

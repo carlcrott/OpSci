@@ -1,1 +1,164 @@
-[][{"name":"Acupuncture in Medicine","url":"http://aim.bmj.com/archive","rss":"http://aim.bmj.com/rss/recent.xml","index":"http://aim.bmj.com/content/by/year"},{"name":"Annals of the Rheumatic Diseases","url":"http://ard.bmj.com/contents-by-date.0.dtl","rss":"http://ard.bmj.com/rss/recent.xml","index":"http://ard.bmj.com/content/by/year"},{"name":"Archives of Disease in Childhood","url":"http://adc.bmj.com/contents-by-date.0.dtl","rss":"http://adc.bmj.com/rss/recent.xml","index":"http://adc.bmj.com/content/by/year"},{"name":"British Journal of Ophthalmology","url":"http://bjo.bmj.com/content/by/year","rss":"http://bjo.bmj.com/rss/recent.xml","index":"http://bjo.bmj.com/content/by/year"},{"name":"British Journal of Sports Medicine","url":"http://bjsm.bmj.com/contents-by-date.0.dtl","rss":"http://bjsm.bmj.com/rss/recent.xml","index":"http://bjsm.bmj.com/content/by/year"},{"name":"Emergency Medicine Journal","url":"http://emj.bmj.com/contents-by-date.0.dtl","rss":"http://emj.bmj.com/rss/recent.xml","index":"http://emj.bmj.com/content/by/year"},{"name":"Evidence-Based Medicine","url":"http://ebm.bmj.com/contents-by-date.0.dtl","rss":"http://ebm.bmj.com/rss/recent.xml","index":"http://ebm.bmj.com/content/by/year"},{"name":"Evidence-Based Mental Health","url":"http://ebmh.bmj.com/contents-by-date.0.dtl","rss":"http://ebmh.bmj.com/rss/recent.xml","index":"http://ebmh.bmj.com/content/by/year"},{"name":"Evidence-Based Nursing","url":"http://ebn.bmj.com/contents-by-date.0.dtl","rss":"http://ebn.bmj.com/rss/recent.xml","index":"http://ebn.bmj.com/content/by/year"},{"name":"Gut ","url":"http://gut.bmj.com/contents-by-date.0.dtl","rss":"http://gut.bmj.com/rss/recent.xml","index":"http://gut.bmj.com/content/by/year"},{"name":"Heart","url":"http://heart.bmj.com/contents-by-date.0.dtl","rss":"http://heart.bmj.com/rss/recent.xml","index":"http://heart.bmj.com/content/by/year"},{"name":"Heart Asia","url":"http://heartasia.bmj.com/archive","rss":"http://heartasia.bmj.com/rss/recent.xml","index":"http://heartasia.bmj.com/content/by/year"},{"name":"Injury Prevention","url":"http://injuryprevention.bmj.com/contents-by-date.0.dtl","rss":"http://injuryprevention.bmj.com/rss/recent.xml","index":"http://injuryprevention.bmj.com/content/by/year"},{"name":"Journal of Clinical Pathology","url":"http://jcp.bmj.com/contents-by-date.0.dtl","rss":"http://jcp.bmj.com/rss/recent.xml","index":"http://jcp.bmj.com/content/by/year"},{"name":"Journal of Epidemiology &  Community Health","url":"http://jech.bmj.com/contents-by-date.0.dtl","rss":"http://jech.bmj.com/rss/recent.xml","index":"http://jech.bmj.com/content/by/year"},{"name":"Journal of Medical Ethics","url":"http://jme.bmj.com/contents-by-date.0.dtl","rss":"http://jme.bmj.com/rss/recent.xml","index":"http://jme.bmj.com/content/by/year"},{"name":"Journal of Medical Genetics","url":"http://jmg.bmj.com/contents-by-date.0.dtl","rss":"http://jmg.bmj.com/rss/recent.xml","index":"http://jmg.bmj.com/content/by/year"},{"name":"Journal of Neurology, Neurosurgery  & Psychiatry","url":"http://jnnp.bmj.com/contents-by-date.0.dtl","rss":"http://jnnp.bmj.com/rss/recent.xml","index":"http://jnnp.bmj.com/content/by/year"},{"name":"Journal of Neuro Interventional  Surgery","url":"http://jnis.bmj.com/content/by/year","rss":"http://jnis.bmj.com/rss/recent.xml","index":"http://jnis.bmj.com/content/by/year"},{"name":"Medical Humanities","url":"http://mh.bmj.com/contents-by-date.0.dtl","rss":"http://mh.bmj.com/rss/recent.xml","index":"http://mh.bmj.com/content/by/year"},{"name":"Occupational and Environmental  Medicine","url":"http://oem.bmj.com/contents-by-date.0.dtl","rss":"http://oem.bmj.com/rss/recent.xml","index":"http://oem.bmj.com/content/by/year"},{"name":"Postgraduate Medical Journal","url":"http://pmj.bmj.com/contents-by-date.0.dtl","rss":"http://pmj.bmj.com/rss/recent.xml","index":"http://pmj.bmj.com/content/by/year"},{"name":"Practical Neurology","url":"http://pn.bmj.com/archive","rss":"http://pn.bmj.com/rss/recent.xml","index":"http://pn.bmj.com/content/by/year"},{"name":"Quality & Safety in Health Care","url":"http://qshc.bmj.com/contents-by-date.0.dtl","rss":"http://qshc.bmj.com/rss/recent.xml","index":"http://qshc.bmj.com/content/by/year"},{"name":"Sexually Transmitted Infections","url":"http://sti.bmj.com/contents-by-date.0.dtl","rss":"http://sti.bmj.com/rss/recent.xml","index":"http://sti.bmj.com/content/by/year"},{"name":"Thorax","url":"http://thorax.bmj.com/contents-by-date.0.dtl","rss":"http://thorax.bmj.com/rss/recent.xml","index":"http://thorax.bmj.com/content/by/year"},{"name":"Tobacco Control","url":"http://tobaccocontrol.bmj.com/contents-by-date.0.dtl","rss":"http://tobaccocontrol.bmj.com/rss/recent.xml","index":"http://tobaccocontrol.bmj.com/content/by/year"}]
+[
+    {
+        "name": "Acupuncture in Medicine",
+        "url": "http://aim.bmj.com/archive",
+        "rss": "http://aim.bmj.com/rss/recent.xml",
+        "index": "http://aim.bmj.com/content/by/year"
+    },
+    {
+        "name": "Annals of the Rheumatic Diseases",
+        "url": "http://ard.bmj.com/contents-by-date.0.dtl",
+        "rss": "http://ard.bmj.com/rss/recent.xml",
+        "index": "http://ard.bmj.com/content/by/year"
+    },
+    {
+        "name": "Archives of Disease in Childhood",
+        "url": "http://adc.bmj.com/contents-by-date.0.dtl",
+        "rss": "http://adc.bmj.com/rss/recent.xml",
+        "index": "http://adc.bmj.com/content/by/year"
+    },
+    {
+        "name": "British Journal of Ophthalmology",
+        "url": "http://bjo.bmj.com/content/by/year",
+        "rss": "http://bjo.bmj.com/rss/recent.xml",
+        "index": "http://bjo.bmj.com/content/by/year"
+    },
+    {
+        "name": "British Journal of Sports Medicine",
+        "url": "http://bjsm.bmj.com/contents-by-date.0.dtl",
+        "rss": "http://bjsm.bmj.com/rss/recent.xml",
+        "index": "http://bjsm.bmj.com/content/by/year"
+    },
+    {
+        "name": "Emergency Medicine Journal",
+        "url": "http://emj.bmj.com/contents-by-date.0.dtl",
+        "rss": "http://emj.bmj.com/rss/recent.xml",
+        "index": "http://emj.bmj.com/content/by/year"
+    },
+    {
+        "name": "Evidence-Based Medicine",
+        "url": "http://ebm.bmj.com/contents-by-date.0.dtl",
+        "rss": "http://ebm.bmj.com/rss/recent.xml",
+        "index": "http://ebm.bmj.com/content/by/year"
+    },
+    {
+        "name": "Evidence-Based Mental Health",
+        "url": "http://ebmh.bmj.com/contents-by-date.0.dtl",
+        "rss": "http://ebmh.bmj.com/rss/recent.xml",
+        "index": "http://ebmh.bmj.com/content/by/year"
+    },
+    {
+        "name": "Evidence-Based Nursing",
+        "url": "http://ebn.bmj.com/contents-by-date.0.dtl",
+        "rss": "http://ebn.bmj.com/rss/recent.xml",
+        "index": "http://ebn.bmj.com/content/by/year"
+    },
+    {
+        "name": "Gut ",
+        "url": "http://gut.bmj.com/contents-by-date.0.dtl",
+        "rss": "http://gut.bmj.com/rss/recent.xml",
+        "index": "http://gut.bmj.com/content/by/year"
+    },
+    {
+        "name": "Heart",
+        "url": "http://heart.bmj.com/contents-by-date.0.dtl",
+        "rss": "http://heart.bmj.com/rss/recent.xml",
+        "index": "http://heart.bmj.com/content/by/year"
+    },
+    {
+        "name": "Heart Asia",
+        "url": "http://heartasia.bmj.com/archive",
+        "rss": "http://heartasia.bmj.com/rss/recent.xml",
+        "index": "http://heartasia.bmj.com/content/by/year"
+    },
+    {
+        "name": "Injury Prevention",
+        "url": "http://injuryprevention.bmj.com/contents-by-date.0.dtl",
+        "rss": "http://injuryprevention.bmj.com/rss/recent.xml",
+        "index": "http://injuryprevention.bmj.com/content/by/year"
+    },
+    {
+        "name": "Journal of Clinical Pathology",
+        "url": "http://jcp.bmj.com/contents-by-date.0.dtl",
+        "rss": "http://jcp.bmj.com/rss/recent.xml",
+        "index": "http://jcp.bmj.com/content/by/year"
+    },
+    {
+        "name": "Journal of Epidemiology &  Community Health",
+        "url": "http://jech.bmj.com/contents-by-date.0.dtl",
+        "rss": "http://jech.bmj.com/rss/recent.xml",
+        "index": "http://jech.bmj.com/content/by/year"
+    },
+    {
+        "name": "Journal of Medical Ethics",
+        "url": "http://jme.bmj.com/contents-by-date.0.dtl",
+        "rss": "http://jme.bmj.com/rss/recent.xml",
+        "index": "http://jme.bmj.com/content/by/year"
+    },
+    {
+        "name": "Journal of Medical Genetics",
+        "url": "http://jmg.bmj.com/contents-by-date.0.dtl",
+        "rss": "http://jmg.bmj.com/rss/recent.xml",
+        "index": "http://jmg.bmj.com/content/by/year"
+    },
+    {
+        "name": "Journal of Neurology, Neurosurgery  & Psychiatry",
+        "url": "http://jnnp.bmj.com/contents-by-date.0.dtl",
+        "rss": "http://jnnp.bmj.com/rss/recent.xml",
+        "index": "http://jnnp.bmj.com/content/by/year"
+    },
+    {
+        "name": "Journal of Neuro Interventional  Surgery",
+        "url": "http://jnis.bmj.com/content/by/year",
+        "rss": "http://jnis.bmj.com/rss/recent.xml",
+        "index": "http://jnis.bmj.com/content/by/year"
+    },
+    {
+        "name": "Medical Humanities",
+        "url": "http://mh.bmj.com/contents-by-date.0.dtl",
+        "rss": "http://mh.bmj.com/rss/recent.xml",
+        "index": "http://mh.bmj.com/content/by/year"
+    },
+    {
+        "name": "Occupational and Environmental  Medicine",
+        "url": "http://oem.bmj.com/contents-by-date.0.dtl",
+        "rss": "http://oem.bmj.com/rss/recent.xml",
+        "index": "http://oem.bmj.com/content/by/year"
+    },
+    {
+        "name": "Postgraduate Medical Journal",
+        "url": "http://pmj.bmj.com/contents-by-date.0.dtl",
+        "rss": "http://pmj.bmj.com/rss/recent.xml",
+        "index": "http://pmj.bmj.com/content/by/year"
+    },
+    {
+        "name": "Practical Neurology",
+        "url": "http://pn.bmj.com/archive",
+        "rss": "http://pn.bmj.com/rss/recent.xml",
+        "index": "http://pn.bmj.com/content/by/year"
+    },
+    {
+        "name": "Quality & Safety in Health Care",
+        "url": "http://qshc.bmj.com/contents-by-date.0.dtl",
+        "rss": "http://qshc.bmj.com/rss/recent.xml",
+        "index": "http://qshc.bmj.com/content/by/year"
+    },
+    {
+        "name": "Sexually Transmitted Infections",
+        "url": "http://sti.bmj.com/contents-by-date.0.dtl",
+        "rss": "http://sti.bmj.com/rss/recent.xml",
+        "index": "http://sti.bmj.com/content/by/year"
+    },
+    {
+        "name": "Thorax",
+        "url": "http://thorax.bmj.com/contents-by-date.0.dtl",
+        "rss": "http://thorax.bmj.com/rss/recent.xml",
+        "index": "http://thorax.bmj.com/content/by/year"
+    },
+    {
+        "name": "Tobacco Control",
+        "url": "http://tobaccocontrol.bmj.com/contents-by-date.0.dtl",
+        "rss": "http://tobaccocontrol.bmj.com/rss/recent.xml",
+        "index": "http://tobaccocontrol.bmj.com/content/by/year"
+    }
+]
