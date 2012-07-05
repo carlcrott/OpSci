@@ -21,7 +21,12 @@ OpSci_scrapers
 
 Overview
 ==========
-URIs, indexes and RSS feeds of the largest 72 closed-source publishers... and the code to scrape them.
+URIs, indexes and RSS feeds of the largest 72 closed-source publishers... and the code to scrape them. 
+
+Proof
+=========
+https://docs.google.com/spreadsheet/ccc?key=0AtOqyz8P_fJ0dHNKUmh4UGxsa1hVdXBKVmd3Zy0yc3c
+
 
 Usage
 ==========
