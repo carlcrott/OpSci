@@ -1,5 +1,65 @@
+## OpSci-specific notes
 
-# physics
+## Notes on cron jobs
+# http://www.debian-administration.org/articles/56
+
+*     *     *     *     *  Command to be executed
+-     -     -     -     -
+|     |     |     |     |
+|     |     |     |     +----- Day of week (0-7)
+|     |     |     +------- Month (1 - 12)
+|     |     +--------- Day of month (1 - 31)
+|     +----------- Hour (0 - 23)
++------------- Min (0 - 59)
+
+Setup of Cron jobs:
+
+$ cd ~/ && cd .. && cd .. && cd etc/
+$ crontab -e # creates new crontab
+
+# paste in:
+0   *   *   *   * /bin/ls
+# close nano w ctrl + x
+
+# should see:
+crontab: installing new crontab
+
+
+# verify with
+crontab -l
+
+
+
+
+
+
+
+#publisher class + adapter
+
+#class Publisher
+#  attr_accessor :name, :url, :index, :rss
+
+#  def initialize(name, url, index, rss)
+#    @name = name
+#    @url = url
+#    @index = index
+#  end
+
+#end
+
+
+#final_JSON_file << individual_journal_hashses
+
+
+
+
+
+
+
+
+## Notes on the Peer-review process
+
+#from IRC #physics
 
 1) How do you get on the list of peer reviewers?
 2) Is there a single list or multiple per publisher? 
@@ -21,13 +81,7 @@ lbovard> 5) no you cannot pass along, typically
 <lbovard> and yeah, they would typically e-mail you the journal article
 
 
-
-
-
-
-
-
-#biology
+#from IRC #biology
 <wonklab> You can call up or email various journals if you want to review stuff.
 <hesaid> reviewers are anonymous, right?
 <wonklab> There are separate lists for the different journals.
@@ -51,3 +105,4 @@ lbovard> 5) no you cannot pass along, typically
 <hesaid> lol
 <wonklab> The journal editors will start to be aware of you.
 <wonklab> It might be easier to get published in their journal.
+

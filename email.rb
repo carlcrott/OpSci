@@ -1,7 +1,7 @@
 require 'rubygems'
 require 'net/smtp'
-require './email_config.rb'
 
+require './email_config.rb'
 # email_config.rb contains:
 #FROM_EMAIL = "XXX@gmail.com"
 #PASSWORD = "XXXX"

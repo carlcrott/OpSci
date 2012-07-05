@@ -1,3 +1,5 @@
+# A file for testing out different scraping / XML traversals
+
 require 'nokogiri'
 require 'mechanize'
 require 'net/http'
