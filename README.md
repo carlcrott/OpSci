@@ -27,12 +27,12 @@ Proof
 =========
 https://docs.google.com/spreadsheet/ccc?key=0AtOqyz8P_fJ0dHNKUmh4UGxsa1hVdXBKVmd3Zy0yc3c
 
-
 Usage
 ==========
-- Implemented inside a rails framework for future automation on scrapes
-- Scrapers located in /lib/scrapers
-- Creative Commons Attribution-ShareAlike 3.0 Unported License
+- $ cd OpSci/
+- $ bundle install
+- $ cd lib/scrapers
+- $ ruby elsevier.rb
 
 Publishers
 ==========
