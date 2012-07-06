@@ -34,6 +34,10 @@ Usage
 - $ cd lib/scrapers
 - $ ruby elsevier.rb
 
+Credit
+=========
+Appreciation given to the minds in ##hplusroadmap.  W/o you guys, I'd have no friends =]
+
 Publishers
 ==========
 - american association for the advancement of science
